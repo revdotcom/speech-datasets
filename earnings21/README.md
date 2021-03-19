@@ -1,20 +1,17 @@
 # Table of Contents
 
-* [File Format Overview](#format)
-  * [nlp Files](#nlp)
-    * [Example](#nlp_example)
-  * [wer_tag JSON](#wer_tag)
-    * [Example](#wer_tag_example)
-
-* [Entity Labels](#entities)
+* [File Format Overview](#File%20Format%20Overview)
+  + [nlp Files](##nlp%20Files)
+    - [Example](###Example%20nlp%20File)
+  + [wer_tag JSON](##wer_tag%20JSON)
+    - [Example](###Example%20wer_tag%20JSON)
+* [Entity Labels](#Entity%20Labels)
 
 
 # File Format Overview
-<a name="format"/>
 In the following section, we provide an overview of the file formats we provide with this dataset.
 
 ## nlp Files
-<a name="nlp"/>
 NLP files are `.csv` inspired, pipe-separated text files that contain token and metadata information of a transcript. Each line of a file represents a single transcript token and the metadata associated with it.
 
 |Column Title|Description
@@ -31,8 +28,7 @@ Column 8: `wer_tags`    |     A list of entity tags that are associated with thi
 _**Note that each entity ID is unique to that specific entity. Entities can be comprised of single and multiple tokens. Within a file there can be several entities of the same ENTITY_CLASS but only one entity can be labeled with any given ID.**_
 
 
-### Example File
-<a name="nlp_example"/>
+### Example nlp File
 `example.nlp`
 
 ```
@@ -50,7 +46,6 @@ NexGEn|0||||MC|['7:ORG']|['7']
 ```
 
 ## wer_tag JSON
-<a name="wer_tag"/>
 The wer_tags sidecar JSON is used in combination with an nlp file and exclusively when that file is using the wer_tags column. It is used to provide entity information about each entity ID. It is formatted such that the JSON acts as a list of objects that map the ID of an entity to an object specifying the entity_type as the entity label. The object is formatted such that:
 
 ```
@@ -59,8 +54,7 @@ The wer_tags sidecar JSON is used in combination with an nlp file and exclusivel
 }
 ```
 
-### Example File
-<a name="wer_tag_example"/>
+### Example wer_tag JSON
 `example.wer_tags.json`
 
 ```
@@ -84,7 +78,6 @@ The wer_tags sidecar JSON is used in combination with an nlp file and exclusivel
 ```
 
 # Entity Labels
-<a name="entities"/>
 In the following table, we provide a list of all possible entity tags we provide in the dataset including a description of each tag and a few examples.
 
 | Tags (Entity Classes) | Description | Examples |
