@@ -1,11 +1,11 @@
 # Table of Contents
 
-* [File Format Overview](#File%20Format%20Overview)
-  + [nlp Files](##nlp%20Files)
-    - [Example](###Example%20nlp%20File)
-  + [wer_tag JSON](##wer_tag%20JSON)
-    - [Example](###Example%20wer_tag%20JSON)
-* [Entity Labels](#Entity%20Labels)
+* [File Format Overview](#file-format-overview)
+  + [nlp Files](#nlp-files)
+    - [Example](#example-nlp-file)
+  + [wer_tag JSON](#wer_tag-json)
+    - [Example](#example-wer_tag-json)
+* [Entity Labels](#entity-labels)
 
 
 # File Format Overview

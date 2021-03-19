@@ -3,8 +3,8 @@
 Various speech datasets made available to the public.
 
 # Table of Contents
-* [Datasets](#Datasets)
-* [How to Check Out Only a Single Dataset](#How%20to%20Check%20Out%20Only%20a%20Single%20Dataset)
+* [Datasets](#datasets)
+* [How to Check Out Only a Single Dataset](#how-to-check-out-only-a-single-dataset)
 
 # Datasets
 In each dataset, the most up-to-date version of the dataset will always be in the `main` branch. Any suggested improvements should be pull-requested off of the develop branch.
