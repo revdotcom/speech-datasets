@@ -1,3 +1,5 @@
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE.md)
+
 # Table of Contents
 
 * [File Format Overview](#file-format-overview)
