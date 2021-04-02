@@ -8,7 +8,7 @@
   + [wer_tag JSON](#wer_tag-json)
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
-
+* [Results](#results)
 
 # File Format Overview
 In the following section, we provide an overview of the file formats we provide with this dataset.
@@ -108,3 +108,7 @@ In the following table, we provide a list of all possible entity tags we provide
 | CONTRACTION | A word or group of words resulting from shortening an original form OR can be transformed into a common form. | I’ll (I will), going to (gonna) |
 | ALPHANUMERIC | A token that is comprised of letters and numbers | 8th, Q4 |
 | FALLBACK | A word that does not conform to a normal word. This is usually words that contain an unknown symbol (like &) or words that were only partially spoken (like th-) | Q&M, lo- |
+
+
+# Results
+Tables found in the paper along with all entity class WER can be found within the `transcripts` directory.
