@@ -8,7 +8,7 @@
   + [wer_tag JSON](#wer_tag-json)
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
-
+* [Results](#results)
 
 # File Format Overview
 In the following section, we provide an overview of the file formats we provide with this dataset.
@@ -20,8 +20,8 @@ NLP files are `.csv` inspired, pipe-separated text files that contain token and 
 |--|--|
 | Column 1: `token` | A single token in the transcript. These are typically single words or multiple words with hyphens in between. |
 | Column 2: `speaker` | A unique integer that associates this token to a specific speaker in an audio |
-Column 3: `ts`          |     A float representing the second that start of the token's utterance |
-Column 4: `endTs`       |     A float representing the second that end of the token's utterance |
+Column 3: `ts`          |     A float representing the start time of the token, in seconds |
+Column 4: `endTs`       |     A float representing the end time of the token, in seconds |
 Column 5: `punctuation` |     A punctuation character that is included at the end of a token that is used when reconstructing the transcript. Example punctuation: `",", ";", ".", "!"`. |
 Column 6: `case`  | A two letter code to denominate the which of four possible casings for this token: <ul><li>`UC` - Denotes a token that has the first character in uppercase and every other character lowercase.</li><li>`LC` - Denotes a token that has every character in lowercase.</li><li>`CA` - Denotes a token that has every character in uppercase.</li><li>`MC` - Denotes a token that doesnâ€™t follow the previous rules. This is the case when upper- and lowercase characters are mixed throughout the token</li></ul> |
 Column 7: `tags`        |     Displays one of the several entity tags that are listed in wer_tags in long form - such that the displayed entity here is in the form `ID:ENTITY_CLASS`. |
@@ -108,3 +108,7 @@ In the following table, we provide a list of all possible entity tags we provide
 | CONTRACTION | A word or group of words resulting from shortening an original form OR can be transformed into a common form. | I’ll (I will), going to (gonna) |
 | ALPHANUMERIC | A token that is comprised of letters and numbers | 8th, Q4 |
 | FALLBACK | A word that does not conform to a normal word. This is usually words that contain an unknown symbol (like &) or words that were only partially spoken (like th-) | Q&M, lo- |
+
+
+# Results
+Tables found in the paper along with all entity class WER can be found within the `transcripts` directory.
