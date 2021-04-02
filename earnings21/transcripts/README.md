@@ -1,6 +1,6 @@
 # Entity Results
 
-|Entity WER|Google|Amazon|Microsoft|Speechmatics|Kaldi|ESPNet|Librispeech|
+|Entity WER|Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
 |ABBREVIATION|48.8|50.7|49.0|62.8|39.0|39.0|81.0|48.2|
 |ALPHANUMERIC|30.5|45.3|15.5|30.2|15.2|12.8|60.9|24.9|
