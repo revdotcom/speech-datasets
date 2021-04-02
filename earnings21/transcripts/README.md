@@ -1,4 +1,4 @@
-In this directory, you can find the transcripts for each recording including the corresponding entity labels and normalization files. Our results are generated using Rev's [fstalign][https://github.com/revdotcom/fstalign] algorithm by feeding in the files in `nlp_transcripts` and the corresponding file in `normalizations`. In the returned, `.log.json` files, we find error information for each entity described in the corresponding `.wer_tag.json` in `wer_tags`.
+In this directory, you can find the transcripts for each recording including the corresponding entity labels and normalization files. Our results are generated using Rev's [fstalign](https://github.com/revdotcom/fstalign) algorithm by feeding in the files in `nlp_transcripts` and the corresponding file in `normalizations`. In the returned, `.log.json` files, we find error information for each entity described in the corresponding `.wer_tag.json` in `wer_tags`.
 
 # Results
 The following table summarize results from our paper and adds more color to the entity specific WER.
