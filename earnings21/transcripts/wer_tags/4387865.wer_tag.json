@@ -1,0 +1,2720 @@
+{
+    "0": {
+        "entity_type": "YEAR"
+    },
+    "1": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "2": {
+        "entity_type": "ABBREVIATION"
+    },
+    "3": {
+        "entity_type": "ABBREVIATION"
+    },
+    "4": {
+        "entity_type": "ABBREVIATION"
+    },
+    "5": {
+        "entity_type": "ABBREVIATION"
+    },
+    "6": {
+        "entity_type": "ABBREVIATION"
+    },
+    "7": {
+        "entity_type": "CARDINAL"
+    },
+    "8": {
+        "entity_type": "CONTRACTION"
+    },
+    "9": {
+        "entity_type": "CONTRACTION"
+    },
+    "10": {
+        "entity_type": "CONTRACTION"
+    },
+    "11": {
+        "entity_type": "TIME"
+    },
+    "13": {
+        "entity_type": "DATE"
+    },
+    "15": {
+        "entity_type": "TIME"
+    },
+    "17": {
+        "entity_type": "PERSON"
+    },
+    "18": {
+        "entity_type": "ORG"
+    },
+    "19": {
+        "entity_type": "PERSON"
+    },
+    "20": {
+        "entity_type": "ORG"
+    },
+    "21": {
+        "entity_type": "ORG"
+    },
+    "22": {
+        "entity_type": "CARDINAL"
+    },
+    "23": {
+        "entity_type": "PRODUCT"
+    },
+    "24": {
+        "entity_type": "DATE"
+    },
+    "25": {
+        "entity_type": "PERSON"
+    },
+    "26": {
+        "entity_type": "MONEY"
+    },
+    "27": {
+        "entity_type": "MONEY"
+    },
+    "28": {
+        "entity_type": "MONEY"
+    },
+    "29": {
+        "entity_type": "PERCENT"
+    },
+    "30": {
+        "entity_type": "PERCENT"
+    },
+    "31": {
+        "entity_type": "PERCENT"
+    },
+    "32": {
+        "entity_type": "PERCENT"
+    },
+    "33": {
+        "entity_type": "PERCENT"
+    },
+    "34": {
+        "entity_type": "PERCENT"
+    },
+    "35": {
+        "entity_type": "PERCENT"
+    },
+    "36": {
+        "entity_type": "PERCENT"
+    },
+    "37": {
+        "entity_type": "PERCENT"
+    },
+    "38": {
+        "entity_type": "PERCENT"
+    },
+    "39": {
+        "entity_type": "PERCENT"
+    },
+    "40": {
+        "entity_type": "PERCENT"
+    },
+    "41": {
+        "entity_type": "PERCENT"
+    },
+    "42": {
+        "entity_type": "PERCENT"
+    },
+    "43": {
+        "entity_type": "PERCENT"
+    },
+    "44": {
+        "entity_type": "PERCENT"
+    },
+    "45": {
+        "entity_type": "PERCENT"
+    },
+    "46": {
+        "entity_type": "PERCENT"
+    },
+    "47": {
+        "entity_type": "PERCENT"
+    },
+    "48": {
+        "entity_type": "PERCENT"
+    },
+    "49": {
+        "entity_type": "PERCENT"
+    },
+    "50": {
+        "entity_type": "PERCENT"
+    },
+    "51": {
+        "entity_type": "YEAR"
+    },
+    "52": {
+        "entity_type": "YEAR"
+    },
+    "53": {
+        "entity_type": "YEAR"
+    },
+    "54": {
+        "entity_type": "YEAR"
+    },
+    "55": {
+        "entity_type": "YEAR"
+    },
+    "56": {
+        "entity_type": "YEAR"
+    },
+    "57": {
+        "entity_type": "YEAR"
+    },
+    "58": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "59": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "60": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "61": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "62": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "63": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "64": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "65": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "66": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "67": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "68": {
+        "entity_type": "ABBREVIATION"
+    },
+    "69": {
+        "entity_type": "ABBREVIATION"
+    },
+    "70": {
+        "entity_type": "ABBREVIATION"
+    },
+    "71": {
+        "entity_type": "ABBREVIATION"
+    },
+    "72": {
+        "entity_type": "ABBREVIATION"
+    },
+    "73": {
+        "entity_type": "ABBREVIATION"
+    },
+    "74": {
+        "entity_type": "ABBREVIATION"
+    },
+    "75": {
+        "entity_type": "ABBREVIATION"
+    },
+    "76": {
+        "entity_type": "ABBREVIATION"
+    },
+    "77": {
+        "entity_type": "ABBREVIATION"
+    },
+    "78": {
+        "entity_type": "ABBREVIATION"
+    },
+    "79": {
+        "entity_type": "ABBREVIATION"
+    },
+    "84": {
+        "entity_type": "CARDINAL"
+    },
+    "92": {
+        "entity_type": "CARDINAL"
+    },
+    "94": {
+        "entity_type": "CARDINAL"
+    },
+    "96": {
+        "entity_type": "CARDINAL"
+    },
+    "97": {
+        "entity_type": "CARDINAL"
+    },
+    "98": {
+        "entity_type": "CARDINAL"
+    },
+    "99": {
+        "entity_type": "CARDINAL"
+    },
+    "103": {
+        "entity_type": "CARDINAL"
+    },
+    "106": {
+        "entity_type": "CARDINAL"
+    },
+    "109": {
+        "entity_type": "CARDINAL"
+    },
+    "110": {
+        "entity_type": "CARDINAL"
+    },
+    "116": {
+        "entity_type": "CARDINAL"
+    },
+    "117": {
+        "entity_type": "CARDINAL"
+    },
+    "118": {
+        "entity_type": "CONTRACTION"
+    },
+    "119": {
+        "entity_type": "CONTRACTION"
+    },
+    "120": {
+        "entity_type": "CONTRACTION"
+    },
+    "121": {
+        "entity_type": "CONTRACTION"
+    },
+    "122": {
+        "entity_type": "CONTRACTION"
+    },
+    "123": {
+        "entity_type": "CONTRACTION"
+    },
+    "124": {
+        "entity_type": "CONTRACTION"
+    },
+    "125": {
+        "entity_type": "CONTRACTION"
+    },
+    "126": {
+        "entity_type": "CONTRACTION"
+    },
+    "127": {
+        "entity_type": "CONTRACTION"
+    },
+    "128": {
+        "entity_type": "CONTRACTION"
+    },
+    "129": {
+        "entity_type": "CONTRACTION"
+    },
+    "130": {
+        "entity_type": "CONTRACTION"
+    },
+    "131": {
+        "entity_type": "CONTRACTION"
+    },
+    "132": {
+        "entity_type": "DATE"
+    },
+    "133": {
+        "entity_type": "DATE"
+    },
+    "135": {
+        "entity_type": "ORG"
+    },
+    "136": {
+        "entity_type": "DATE"
+    },
+    "140": {
+        "entity_type": "CARDINAL"
+    },
+    "141": {
+        "entity_type": "CARDINAL"
+    },
+    "144": {
+        "entity_type": "PERCENT"
+    },
+    "145": {
+        "entity_type": "PERCENT"
+    },
+    "146": {
+        "entity_type": "DATE"
+    },
+    "148": {
+        "entity_type": "PERCENT"
+    },
+    "149": {
+        "entity_type": "DATE"
+    },
+    "150": {
+        "entity_type": "PERCENT"
+    },
+    "151": {
+        "entity_type": "DATE"
+    },
+    "152": {
+        "entity_type": "DATE"
+    },
+    "153": {
+        "entity_type": "DATE"
+    },
+    "154": {
+        "entity_type": "ORG"
+    },
+    "155": {
+        "entity_type": "ORG"
+    },
+    "157": {
+        "entity_type": "CARDINAL"
+    },
+    "158": {
+        "entity_type": "DATE"
+    },
+    "159": {
+        "entity_type": "DATE"
+    },
+    "161": {
+        "entity_type": "CARDINAL"
+    },
+    "162": {
+        "entity_type": "DATE"
+    },
+    "163": {
+        "entity_type": "CARDINAL"
+    },
+    "164": {
+        "entity_type": "DATE"
+    },
+    "165": {
+        "entity_type": "ORG"
+    },
+    "166": {
+        "entity_type": "ORG"
+    },
+    "167": {
+        "entity_type": "DATE"
+    },
+    "168": {
+        "entity_type": "MONEY"
+    },
+    "169": {
+        "entity_type": "ORG"
+    },
+    "170": {
+        "entity_type": "ORG"
+    },
+    "171": {
+        "entity_type": "ORG"
+    },
+    "172": {
+        "entity_type": "CARDINAL"
+    },
+    "173": {
+        "entity_type": "DATE"
+    },
+    "174": {
+        "entity_type": "DATE"
+    },
+    "175": {
+        "entity_type": "DATE"
+    },
+    "177": {
+        "entity_type": "DATE"
+    },
+    "178": {
+        "entity_type": "DATE"
+    },
+    "180": {
+        "entity_type": "DATE"
+    },
+    "181": {
+        "entity_type": "DATE"
+    },
+    "182": {
+        "entity_type": "DATE"
+    },
+    "183": {
+        "entity_type": "DATE"
+    },
+    "184": {
+        "entity_type": "ORG"
+    },
+    "185": {
+        "entity_type": "DATE"
+    },
+    "186": {
+        "entity_type": "GPE"
+    },
+    "189": {
+        "entity_type": "ORDINAL"
+    },
+    "190": {
+        "entity_type": "CARDINAL"
+    },
+    "191": {
+        "entity_type": "CARDINAL"
+    },
+    "192": {
+        "entity_type": "DATE"
+    },
+    "194": {
+        "entity_type": "MONEY"
+    },
+    "195": {
+        "entity_type": "MONEY"
+    },
+    "196": {
+        "entity_type": "DATE"
+    },
+    "197": {
+        "entity_type": "CARDINAL"
+    },
+    "198": {
+        "entity_type": "PERSON"
+    },
+    "199": {
+        "entity_type": "PERSON"
+    },
+    "200": {
+        "entity_type": "DATE"
+    },
+    "201": {
+        "entity_type": "DATE"
+    },
+    "202": {
+        "entity_type": "DATE"
+    },
+    "203": {
+        "entity_type": "ORG"
+    },
+    "204": {
+        "entity_type": "DATE"
+    },
+    "205": {
+        "entity_type": "DATE"
+    },
+    "206": {
+        "entity_type": "DATE"
+    },
+    "209": {
+        "entity_type": "DATE"
+    },
+    "210": {
+        "entity_type": "ORG"
+    },
+    "213": {
+        "entity_type": "DATE"
+    },
+    "214": {
+        "entity_type": "DATE"
+    },
+    "216": {
+        "entity_type": "DATE"
+    },
+    "217": {
+        "entity_type": "ORG"
+    },
+    "218": {
+        "entity_type": "ORDINAL"
+    },
+    "219": {
+        "entity_type": "DATE"
+    },
+    "220": {
+        "entity_type": "DATE"
+    },
+    "221": {
+        "entity_type": "DATE"
+    },
+    "222": {
+        "entity_type": "DATE"
+    },
+    "223": {
+        "entity_type": "DATE"
+    },
+    "224": {
+        "entity_type": "PERCENT"
+    },
+    "225": {
+        "entity_type": "PERCENT"
+    },
+    "226": {
+        "entity_type": "PERCENT"
+    },
+    "227": {
+        "entity_type": "PERCENT"
+    },
+    "228": {
+        "entity_type": "PERCENT"
+    },
+    "229": {
+        "entity_type": "PERCENT"
+    },
+    "230": {
+        "entity_type": "PERCENT"
+    },
+    "231": {
+        "entity_type": "PERCENT"
+    },
+    "232": {
+        "entity_type": "PERCENT"
+    },
+    "233": {
+        "entity_type": "PERCENT"
+    },
+    "234": {
+        "entity_type": "PERCENT"
+    },
+    "235": {
+        "entity_type": "PERCENT"
+    },
+    "236": {
+        "entity_type": "PERCENT"
+    },
+    "237": {
+        "entity_type": "PERCENT"
+    },
+    "238": {
+        "entity_type": "PERCENT"
+    },
+    "239": {
+        "entity_type": "PERCENT"
+    },
+    "240": {
+        "entity_type": "PERCENT"
+    },
+    "241": {
+        "entity_type": "PERCENT"
+    },
+    "242": {
+        "entity_type": "PERCENT"
+    },
+    "243": {
+        "entity_type": "PERCENT"
+    },
+    "244": {
+        "entity_type": "PERCENT"
+    },
+    "245": {
+        "entity_type": "PERCENT"
+    },
+    "246": {
+        "entity_type": "PERCENT"
+    },
+    "247": {
+        "entity_type": "PERCENT"
+    },
+    "248": {
+        "entity_type": "PERCENT"
+    },
+    "249": {
+        "entity_type": "PERCENT"
+    },
+    "250": {
+        "entity_type": "YEAR"
+    },
+    "251": {
+        "entity_type": "YEAR"
+    },
+    "252": {
+        "entity_type": "YEAR"
+    },
+    "253": {
+        "entity_type": "YEAR"
+    },
+    "254": {
+        "entity_type": "YEAR"
+    },
+    "255": {
+        "entity_type": "YEAR"
+    },
+    "256": {
+        "entity_type": "YEAR"
+    },
+    "257": {
+        "entity_type": "YEAR"
+    },
+    "258": {
+        "entity_type": "YEAR"
+    },
+    "259": {
+        "entity_type": "YEAR"
+    },
+    "260": {
+        "entity_type": "YEAR"
+    },
+    "261": {
+        "entity_type": "YEAR"
+    },
+    "262": {
+        "entity_type": "YEAR"
+    },
+    "263": {
+        "entity_type": "YEAR"
+    },
+    "264": {
+        "entity_type": "YEAR"
+    },
+    "265": {
+        "entity_type": "YEAR"
+    },
+    "266": {
+        "entity_type": "YEAR"
+    },
+    "267": {
+        "entity_type": "YEAR"
+    },
+    "268": {
+        "entity_type": "YEAR"
+    },
+    "269": {
+        "entity_type": "YEAR"
+    },
+    "270": {
+        "entity_type": "YEAR"
+    },
+    "271": {
+        "entity_type": "YEAR"
+    },
+    "272": {
+        "entity_type": "YEAR"
+    },
+    "273": {
+        "entity_type": "YEAR"
+    },
+    "274": {
+        "entity_type": "YEAR"
+    },
+    "275": {
+        "entity_type": "YEAR"
+    },
+    "276": {
+        "entity_type": "YEAR"
+    },
+    "277": {
+        "entity_type": "YEAR"
+    },
+    "278": {
+        "entity_type": "YEAR"
+    },
+    "279": {
+        "entity_type": "YEAR"
+    },
+    "280": {
+        "entity_type": "YEAR"
+    },
+    "281": {
+        "entity_type": "YEAR"
+    },
+    "282": {
+        "entity_type": "YEAR"
+    },
+    "283": {
+        "entity_type": "YEAR"
+    },
+    "284": {
+        "entity_type": "YEAR"
+    },
+    "285": {
+        "entity_type": "YEAR"
+    },
+    "286": {
+        "entity_type": "YEAR"
+    },
+    "287": {
+        "entity_type": "YEAR"
+    },
+    "288": {
+        "entity_type": "YEAR"
+    },
+    "289": {
+        "entity_type": "YEAR"
+    },
+    "290": {
+        "entity_type": "YEAR"
+    },
+    "291": {
+        "entity_type": "YEAR"
+    },
+    "292": {
+        "entity_type": "YEAR"
+    },
+    "293": {
+        "entity_type": "YEAR"
+    },
+    "294": {
+        "entity_type": "YEAR"
+    },
+    "295": {
+        "entity_type": "YEAR"
+    },
+    "296": {
+        "entity_type": "YEAR"
+    },
+    "297": {
+        "entity_type": "YEAR"
+    },
+    "298": {
+        "entity_type": "YEAR"
+    },
+    "299": {
+        "entity_type": "YEAR"
+    },
+    "300": {
+        "entity_type": "YEAR"
+    },
+    "301": {
+        "entity_type": "YEAR"
+    },
+    "302": {
+        "entity_type": "ORDINAL"
+    },
+    "303": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "304": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "305": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "306": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "307": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "308": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "309": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "310": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "311": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "312": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "313": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "314": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "315": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "316": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "317": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "318": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "319": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "320": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "321": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "322": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "323": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "324": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "325": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "326": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "327": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "328": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "329": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "330": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "331": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "332": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "333": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "334": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "335": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "336": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "337": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "338": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "339": {
+        "entity_type": "ABBREVIATION"
+    },
+    "340": {
+        "entity_type": "ABBREVIATION"
+    },
+    "341": {
+        "entity_type": "ABBREVIATION"
+    },
+    "342": {
+        "entity_type": "ABBREVIATION"
+    },
+    "343": {
+        "entity_type": "ABBREVIATION"
+    },
+    "344": {
+        "entity_type": "ABBREVIATION"
+    },
+    "345": {
+        "entity_type": "ABBREVIATION"
+    },
+    "346": {
+        "entity_type": "ABBREVIATION"
+    },
+    "347": {
+        "entity_type": "ABBREVIATION"
+    },
+    "348": {
+        "entity_type": "ABBREVIATION"
+    },
+    "349": {
+        "entity_type": "ABBREVIATION"
+    },
+    "350": {
+        "entity_type": "ABBREVIATION"
+    },
+    "351": {
+        "entity_type": "ABBREVIATION"
+    },
+    "352": {
+        "entity_type": "ABBREVIATION"
+    },
+    "353": {
+        "entity_type": "ABBREVIATION"
+    },
+    "354": {
+        "entity_type": "ABBREVIATION"
+    },
+    "355": {
+        "entity_type": "ABBREVIATION"
+    },
+    "356": {
+        "entity_type": "ABBREVIATION"
+    },
+    "357": {
+        "entity_type": "ABBREVIATION"
+    },
+    "358": {
+        "entity_type": "ABBREVIATION"
+    },
+    "359": {
+        "entity_type": "CARDINAL"
+    },
+    "360": {
+        "entity_type": "CARDINAL"
+    },
+    "361": {
+        "entity_type": "CARDINAL"
+    },
+    "363": {
+        "entity_type": "CARDINAL"
+    },
+    "365": {
+        "entity_type": "CARDINAL"
+    },
+    "368": {
+        "entity_type": "CARDINAL"
+    },
+    "370": {
+        "entity_type": "CARDINAL"
+    },
+    "371": {
+        "entity_type": "CARDINAL"
+    },
+    "372": {
+        "entity_type": "CARDINAL"
+    },
+    "376": {
+        "entity_type": "CARDINAL"
+    },
+    "380": {
+        "entity_type": "CARDINAL"
+    },
+    "381": {
+        "entity_type": "CARDINAL"
+    },
+    "382": {
+        "entity_type": "CARDINAL"
+    },
+    "383": {
+        "entity_type": "CARDINAL"
+    },
+    "384": {
+        "entity_type": "CARDINAL"
+    },
+    "385": {
+        "entity_type": "CARDINAL"
+    },
+    "386": {
+        "entity_type": "CARDINAL"
+    },
+    "387": {
+        "entity_type": "CARDINAL"
+    },
+    "388": {
+        "entity_type": "CARDINAL"
+    },
+    "389": {
+        "entity_type": "CARDINAL"
+    },
+    "390": {
+        "entity_type": "CARDINAL"
+    },
+    "391": {
+        "entity_type": "CARDINAL"
+    },
+    "392": {
+        "entity_type": "CARDINAL"
+    },
+    "395": {
+        "entity_type": "CARDINAL"
+    },
+    "397": {
+        "entity_type": "CARDINAL"
+    },
+    "398": {
+        "entity_type": "CARDINAL"
+    },
+    "400": {
+        "entity_type": "CARDINAL"
+    },
+    "402": {
+        "entity_type": "CARDINAL"
+    },
+    "404": {
+        "entity_type": "CARDINAL"
+    },
+    "406": {
+        "entity_type": "CARDINAL"
+    },
+    "408": {
+        "entity_type": "CARDINAL"
+    },
+    "410": {
+        "entity_type": "CARDINAL"
+    },
+    "412": {
+        "entity_type": "CARDINAL"
+    },
+    "413": {
+        "entity_type": "CARDINAL"
+    },
+    "414": {
+        "entity_type": "CARDINAL"
+    },
+    "417": {
+        "entity_type": "CARDINAL"
+    },
+    "419": {
+        "entity_type": "CARDINAL"
+    },
+    "421": {
+        "entity_type": "CARDINAL"
+    },
+    "422": {
+        "entity_type": "CARDINAL"
+    },
+    "423": {
+        "entity_type": "CARDINAL"
+    },
+    "424": {
+        "entity_type": "CARDINAL"
+    },
+    "425": {
+        "entity_type": "CARDINAL"
+    },
+    "426": {
+        "entity_type": "CARDINAL"
+    },
+    "427": {
+        "entity_type": "CARDINAL"
+    },
+    "429": {
+        "entity_type": "CARDINAL"
+    },
+    "431": {
+        "entity_type": "CARDINAL"
+    },
+    "433": {
+        "entity_type": "CARDINAL"
+    },
+    "434": {
+        "entity_type": "CARDINAL"
+    },
+    "435": {
+        "entity_type": "CARDINAL"
+    },
+    "436": {
+        "entity_type": "CARDINAL"
+    },
+    "437": {
+        "entity_type": "CARDINAL"
+    },
+    "438": {
+        "entity_type": "CARDINAL"
+    },
+    "439": {
+        "entity_type": "CARDINAL"
+    },
+    "440": {
+        "entity_type": "CARDINAL"
+    },
+    "441": {
+        "entity_type": "CARDINAL"
+    },
+    "442": {
+        "entity_type": "CARDINAL"
+    },
+    "443": {
+        "entity_type": "CARDINAL"
+    },
+    "444": {
+        "entity_type": "CARDINAL"
+    },
+    "445": {
+        "entity_type": "CARDINAL"
+    },
+    "446": {
+        "entity_type": "CARDINAL"
+    },
+    "447": {
+        "entity_type": "CARDINAL"
+    },
+    "448": {
+        "entity_type": "CARDINAL"
+    },
+    "449": {
+        "entity_type": "CARDINAL"
+    },
+    "450": {
+        "entity_type": "CARDINAL"
+    },
+    "451": {
+        "entity_type": "CARDINAL"
+    },
+    "452": {
+        "entity_type": "CARDINAL"
+    },
+    "453": {
+        "entity_type": "CARDINAL"
+    },
+    "454": {
+        "entity_type": "CARDINAL"
+    },
+    "455": {
+        "entity_type": "CARDINAL"
+    },
+    "456": {
+        "entity_type": "CARDINAL"
+    },
+    "457": {
+        "entity_type": "CARDINAL"
+    },
+    "458": {
+        "entity_type": "CARDINAL"
+    },
+    "459": {
+        "entity_type": "CARDINAL"
+    },
+    "460": {
+        "entity_type": "CARDINAL"
+    },
+    "461": {
+        "entity_type": "CARDINAL"
+    },
+    "462": {
+        "entity_type": "CARDINAL"
+    },
+    "463": {
+        "entity_type": "CARDINAL"
+    },
+    "464": {
+        "entity_type": "CARDINAL"
+    },
+    "465": {
+        "entity_type": "CARDINAL"
+    },
+    "466": {
+        "entity_type": "CARDINAL"
+    },
+    "467": {
+        "entity_type": "CARDINAL"
+    },
+    "468": {
+        "entity_type": "CARDINAL"
+    },
+    "469": {
+        "entity_type": "CARDINAL"
+    },
+    "470": {
+        "entity_type": "CARDINAL"
+    },
+    "471": {
+        "entity_type": "CARDINAL"
+    },
+    "472": {
+        "entity_type": "CARDINAL"
+    },
+    "473": {
+        "entity_type": "CONTRACTION"
+    },
+    "474": {
+        "entity_type": "CONTRACTION"
+    },
+    "475": {
+        "entity_type": "CONTRACTION"
+    },
+    "476": {
+        "entity_type": "CONTRACTION"
+    },
+    "477": {
+        "entity_type": "CONTRACTION"
+    },
+    "478": {
+        "entity_type": "CONTRACTION"
+    },
+    "479": {
+        "entity_type": "CONTRACTION"
+    },
+    "480": {
+        "entity_type": "PERSON"
+    },
+    "481": {
+        "entity_type": "DATE"
+    },
+    "482": {
+        "entity_type": "DATE"
+    },
+    "483": {
+        "entity_type": "ORDINAL"
+    },
+    "484": {
+        "entity_type": "DATE"
+    },
+    "485": {
+        "entity_type": "CARDINAL"
+    },
+    "487": {
+        "entity_type": "DATE"
+    },
+    "489": {
+        "entity_type": "DATE"
+    },
+    "491": {
+        "entity_type": "DATE"
+    },
+    "493": {
+        "entity_type": "DATE"
+    },
+    "495": {
+        "entity_type": "DATE"
+    },
+    "496": {
+        "entity_type": "DATE"
+    },
+    "497": {
+        "entity_type": "ORG"
+    },
+    "498": {
+        "entity_type": "PERSON"
+    },
+    "502": {
+        "entity_type": "PERSON"
+    },
+    "504": {
+        "entity_type": "DATE"
+    },
+    "505": {
+        "entity_type": "ORG"
+    },
+    "509": {
+        "entity_type": "DATE"
+    },
+    "510": {
+        "entity_type": "CARDINAL"
+    },
+    "511": {
+        "entity_type": "CARDINAL"
+    },
+    "512": {
+        "entity_type": "DATE"
+    },
+    "513": {
+        "entity_type": "CARDINAL"
+    },
+    "514": {
+        "entity_type": "DATE"
+    },
+    "515": {
+        "entity_type": "ORG"
+    },
+    "516": {
+        "entity_type": "CARDINAL"
+    },
+    "517": {
+        "entity_type": "MONEY"
+    },
+    "518": {
+        "entity_type": "MONEY"
+    },
+    "519": {
+        "entity_type": "DATE"
+    },
+    "520": {
+        "entity_type": "MONEY"
+    },
+    "521": {
+        "entity_type": "DATE"
+    },
+    "522": {
+        "entity_type": "ORG"
+    },
+    "523": {
+        "entity_type": "ORG"
+    },
+    "524": {
+        "entity_type": "CARDINAL"
+    },
+    "526": {
+        "entity_type": "GPE"
+    },
+    "528": {
+        "entity_type": "DATE"
+    },
+    "530": {
+        "entity_type": "GPE"
+    },
+    "531": {
+        "entity_type": "DATE"
+    },
+    "532": {
+        "entity_type": "ORG"
+    },
+    "533": {
+        "entity_type": "CARDINAL"
+    },
+    "535": {
+        "entity_type": "GPE"
+    },
+    "536": {
+        "entity_type": "DATE"
+    },
+    "538": {
+        "entity_type": "DATE"
+    },
+    "540": {
+        "entity_type": "GPE"
+    },
+    "541": {
+        "entity_type": "DATE"
+    },
+    "542": {
+        "entity_type": "ORG"
+    },
+    "544": {
+        "entity_type": "DATE"
+    },
+    "546": {
+        "entity_type": "DATE"
+    },
+    "548": {
+        "entity_type": "GPE"
+    },
+    "549": {
+        "entity_type": "DATE"
+    },
+    "551": {
+        "entity_type": "DATE"
+    },
+    "552": {
+        "entity_type": "DATE"
+    },
+    "553": {
+        "entity_type": "DATE"
+    },
+    "556": {
+        "entity_type": "DATE"
+    },
+    "558": {
+        "entity_type": "DATE"
+    },
+    "560": {
+        "entity_type": "ORG"
+    },
+    "561": {
+        "entity_type": "DATE"
+    },
+    "562": {
+        "entity_type": "CARDINAL"
+    },
+    "563": {
+        "entity_type": "CARDINAL"
+    },
+    "564": {
+        "entity_type": "DATE"
+    },
+    "565": {
+        "entity_type": "DATE"
+    },
+    "566": {
+        "entity_type": "DATE"
+    },
+    "567": {
+        "entity_type": "CARDINAL"
+    },
+    "568": {
+        "entity_type": "GPE"
+    },
+    "569": {
+        "entity_type": "DATE"
+    },
+    "570": {
+        "entity_type": "CARDINAL"
+    },
+    "571": {
+        "entity_type": "DATE"
+    },
+    "572": {
+        "entity_type": "ORG"
+    },
+    "574": {
+        "entity_type": "DATE"
+    },
+    "576": {
+        "entity_type": "DATE"
+    },
+    "578": {
+        "entity_type": "DATE"
+    },
+    "579": {
+        "entity_type": "ORG"
+    },
+    "580": {
+        "entity_type": "CARDINAL"
+    },
+    "581": {
+        "entity_type": "DATE"
+    },
+    "582": {
+        "entity_type": "CARDINAL"
+    },
+    "583": {
+        "entity_type": "DATE"
+    },
+    "584": {
+        "entity_type": "CARDINAL"
+    },
+    "585": {
+        "entity_type": "DATE"
+    },
+    "586": {
+        "entity_type": "ORG"
+    },
+    "587": {
+        "entity_type": "ORG"
+    },
+    "588": {
+        "entity_type": "CARDINAL"
+    },
+    "589": {
+        "entity_type": "DATE"
+    },
+    "590": {
+        "entity_type": "CARDINAL"
+    },
+    "591": {
+        "entity_type": "DATE"
+    },
+    "592": {
+        "entity_type": "DATE"
+    },
+    "593": {
+        "entity_type": "DATE"
+    },
+    "594": {
+        "entity_type": "DATE"
+    },
+    "595": {
+        "entity_type": "DATE"
+    },
+    "596": {
+        "entity_type": "DATE"
+    },
+    "597": {
+        "entity_type": "CARDINAL"
+    },
+    "598": {
+        "entity_type": "CARDINAL"
+    },
+    "599": {
+        "entity_type": "DATE"
+    },
+    "600": {
+        "entity_type": "CARDINAL"
+    },
+    "601": {
+        "entity_type": "GPE"
+    },
+    "602": {
+        "entity_type": "DATE"
+    },
+    "603": {
+        "entity_type": "DATE"
+    },
+    "604": {
+        "entity_type": "CARDINAL"
+    },
+    "605": {
+        "entity_type": "CARDINAL"
+    },
+    "606": {
+        "entity_type": "DATE"
+    },
+    "607": {
+        "entity_type": "GPE"
+    },
+    "608": {
+        "entity_type": "CARDINAL"
+    },
+    "609": {
+        "entity_type": "CARDINAL"
+    },
+    "610": {
+        "entity_type": "CARDINAL"
+    },
+    "611": {
+        "entity_type": "DATE"
+    },
+    "612": {
+        "entity_type": "DATE"
+    },
+    "613": {
+        "entity_type": "DATE"
+    },
+    "614": {
+        "entity_type": "DATE"
+    },
+    "615": {
+        "entity_type": "DATE"
+    },
+    "616": {
+        "entity_type": "DATE"
+    },
+    "617": {
+        "entity_type": "DATE"
+    },
+    "618": {
+        "entity_type": "DATE"
+    },
+    "619": {
+        "entity_type": "ORG"
+    },
+    "620": {
+        "entity_type": "GPE"
+    },
+    "621": {
+        "entity_type": "DATE"
+    },
+    "622": {
+        "entity_type": "DATE"
+    },
+    "623": {
+        "entity_type": "DATE"
+    },
+    "624": {
+        "entity_type": "DATE"
+    },
+    "625": {
+        "entity_type": "DATE"
+    },
+    "626": {
+        "entity_type": "CARDINAL"
+    },
+    "627": {
+        "entity_type": "DATE"
+    },
+    "628": {
+        "entity_type": "DATE"
+    },
+    "629": {
+        "entity_type": "CARDINAL"
+    },
+    "630": {
+        "entity_type": "DATE"
+    },
+    "631": {
+        "entity_type": "DATE"
+    },
+    "632": {
+        "entity_type": "DATE"
+    },
+    "633": {
+        "entity_type": "DATE"
+    },
+    "634": {
+        "entity_type": "DATE"
+    },
+    "635": {
+        "entity_type": "PERSON"
+    },
+    "636": {
+        "entity_type": "PERCENT"
+    },
+    "637": {
+        "entity_type": "PERCENT"
+    },
+    "638": {
+        "entity_type": "PERCENT"
+    },
+    "639": {
+        "entity_type": "PERCENT"
+    },
+    "640": {
+        "entity_type": "PERCENT"
+    },
+    "641": {
+        "entity_type": "PERCENT"
+    },
+    "642": {
+        "entity_type": "PERCENT"
+    },
+    "643": {
+        "entity_type": "PERCENT"
+    },
+    "644": {
+        "entity_type": "PERCENT"
+    },
+    "645": {
+        "entity_type": "PERCENT"
+    },
+    "646": {
+        "entity_type": "YEAR"
+    },
+    "647": {
+        "entity_type": "YEAR"
+    },
+    "648": {
+        "entity_type": "YEAR"
+    },
+    "649": {
+        "entity_type": "YEAR"
+    },
+    "650": {
+        "entity_type": "YEAR"
+    },
+    "651": {
+        "entity_type": "YEAR"
+    },
+    "652": {
+        "entity_type": "YEAR"
+    },
+    "653": {
+        "entity_type": "YEAR"
+    },
+    "654": {
+        "entity_type": "YEAR"
+    },
+    "655": {
+        "entity_type": "YEAR"
+    },
+    "656": {
+        "entity_type": "YEAR"
+    },
+    "657": {
+        "entity_type": "YEAR"
+    },
+    "658": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "659": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "660": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "661": {
+        "entity_type": "ABBREVIATION"
+    },
+    "662": {
+        "entity_type": "ABBREVIATION"
+    },
+    "663": {
+        "entity_type": "ABBREVIATION"
+    },
+    "664": {
+        "entity_type": "ABBREVIATION"
+    },
+    "665": {
+        "entity_type": "ABBREVIATION"
+    },
+    "666": {
+        "entity_type": "ABBREVIATION"
+    },
+    "667": {
+        "entity_type": "ABBREVIATION"
+    },
+    "668": {
+        "entity_type": "ABBREVIATION"
+    },
+    "669": {
+        "entity_type": "ABBREVIATION"
+    },
+    "670": {
+        "entity_type": "ABBREVIATION"
+    },
+    "671": {
+        "entity_type": "ABBREVIATION"
+    },
+    "672": {
+        "entity_type": "ABBREVIATION"
+    },
+    "673": {
+        "entity_type": "ABBREVIATION"
+    },
+    "674": {
+        "entity_type": "ABBREVIATION"
+    },
+    "675": {
+        "entity_type": "ABBREVIATION"
+    },
+    "676": {
+        "entity_type": "ABBREVIATION"
+    },
+    "677": {
+        "entity_type": "ABBREVIATION"
+    },
+    "678": {
+        "entity_type": "ABBREVIATION"
+    },
+    "679": {
+        "entity_type": "ABBREVIATION"
+    },
+    "680": {
+        "entity_type": "ABBREVIATION"
+    },
+    "681": {
+        "entity_type": "ABBREVIATION"
+    },
+    "682": {
+        "entity_type": "ABBREVIATION"
+    },
+    "683": {
+        "entity_type": "ABBREVIATION"
+    },
+    "684": {
+        "entity_type": "ABBREVIATION"
+    },
+    "685": {
+        "entity_type": "ABBREVIATION"
+    },
+    "686": {
+        "entity_type": "ABBREVIATION"
+    },
+    "687": {
+        "entity_type": "ABBREVIATION"
+    },
+    "688": {
+        "entity_type": "ABBREVIATION"
+    },
+    "689": {
+        "entity_type": "ABBREVIATION"
+    },
+    "690": {
+        "entity_type": "ABBREVIATION"
+    },
+    "691": {
+        "entity_type": "ABBREVIATION"
+    },
+    "692": {
+        "entity_type": "ABBREVIATION"
+    },
+    "693": {
+        "entity_type": "ABBREVIATION"
+    },
+    "694": {
+        "entity_type": "CARDINAL"
+    },
+    "695": {
+        "entity_type": "CARDINAL"
+    },
+    "699": {
+        "entity_type": "CARDINAL"
+    },
+    "700": {
+        "entity_type": "CARDINAL"
+    },
+    "702": {
+        "entity_type": "CARDINAL"
+    },
+    "703": {
+        "entity_type": "CARDINAL"
+    },
+    "705": {
+        "entity_type": "CARDINAL"
+    },
+    "707": {
+        "entity_type": "CARDINAL"
+    },
+    "708": {
+        "entity_type": "CARDINAL"
+    },
+    "709": {
+        "entity_type": "CARDINAL"
+    },
+    "710": {
+        "entity_type": "CARDINAL"
+    },
+    "711": {
+        "entity_type": "CARDINAL"
+    },
+    "715": {
+        "entity_type": "CARDINAL"
+    },
+    "716": {
+        "entity_type": "CARDINAL"
+    },
+    "718": {
+        "entity_type": "CARDINAL"
+    },
+    "719": {
+        "entity_type": "CARDINAL"
+    },
+    "720": {
+        "entity_type": "CARDINAL"
+    },
+    "721": {
+        "entity_type": "CONTRACTION"
+    },
+    "722": {
+        "entity_type": "CONTRACTION"
+    },
+    "723": {
+        "entity_type": "CONTRACTION"
+    },
+    "724": {
+        "entity_type": "CONTRACTION"
+    },
+    "725": {
+        "entity_type": "CONTRACTION"
+    },
+    "726": {
+        "entity_type": "CONTRACTION"
+    },
+    "727": {
+        "entity_type": "CONTRACTION"
+    },
+    "728": {
+        "entity_type": "CONTRACTION"
+    },
+    "729": {
+        "entity_type": "CONTRACTION"
+    },
+    "730": {
+        "entity_type": "CONTRACTION"
+    },
+    "731": {
+        "entity_type": "CONTRACTION"
+    },
+    "732": {
+        "entity_type": "CONTRACTION"
+    },
+    "733": {
+        "entity_type": "CONTRACTION"
+    },
+    "734": {
+        "entity_type": "CONTRACTION"
+    },
+    "735": {
+        "entity_type": "CONTRACTION"
+    },
+    "736": {
+        "entity_type": "CONTRACTION"
+    },
+    "737": {
+        "entity_type": "CONTRACTION"
+    },
+    "738": {
+        "entity_type": "CONTRACTION"
+    },
+    "739": {
+        "entity_type": "CONTRACTION"
+    },
+    "740": {
+        "entity_type": "CONTRACTION"
+    },
+    "741": {
+        "entity_type": "CONTRACTION"
+    },
+    "742": {
+        "entity_type": "CONTRACTION"
+    },
+    "743": {
+        "entity_type": "CONTRACTION"
+    },
+    "744": {
+        "entity_type": "CONTRACTION"
+    },
+    "745": {
+        "entity_type": "CONTRACTION"
+    },
+    "746": {
+        "entity_type": "CONTRACTION"
+    },
+    "747": {
+        "entity_type": "CONTRACTION"
+    },
+    "748": {
+        "entity_type": "CONTRACTION"
+    },
+    "749": {
+        "entity_type": "CONTRACTION"
+    },
+    "750": {
+        "entity_type": "CONTRACTION"
+    },
+    "751": {
+        "entity_type": "CONTRACTION"
+    },
+    "752": {
+        "entity_type": "CONTRACTION"
+    },
+    "753": {
+        "entity_type": "CONTRACTION"
+    },
+    "754": {
+        "entity_type": "CONTRACTION"
+    },
+    "755": {
+        "entity_type": "CARDINAL"
+    },
+    "756": {
+        "entity_type": "PERSON"
+    },
+    "757": {
+        "entity_type": "DATE"
+    },
+    "758": {
+        "entity_type": "DATE"
+    },
+    "759": {
+        "entity_type": "CARDINAL"
+    },
+    "761": {
+        "entity_type": "DATE"
+    },
+    "762": {
+        "entity_type": "PERSON"
+    },
+    "763": {
+        "entity_type": "DATE"
+    },
+    "765": {
+        "entity_type": "DATE"
+    },
+    "766": {
+        "entity_type": "PERCENT"
+    },
+    "767": {
+        "entity_type": "DATE"
+    },
+    "768": {
+        "entity_type": "PERSON"
+    },
+    "769": {
+        "entity_type": "DATE"
+    },
+    "770": {
+        "entity_type": "DATE"
+    },
+    "771": {
+        "entity_type": "ORG"
+    },
+    "773": {
+        "entity_type": "DATE"
+    },
+    "774": {
+        "entity_type": "DATE"
+    },
+    "775": {
+        "entity_type": "DATE"
+    },
+    "777": {
+        "entity_type": "DATE"
+    },
+    "778": {
+        "entity_type": "ORG"
+    },
+    "779": {
+        "entity_type": "ORG"
+    },
+    "780": {
+        "entity_type": "ORG"
+    },
+    "781": {
+        "entity_type": "DATE"
+    },
+    "782": {
+        "entity_type": "CARDINAL"
+    },
+    "783": {
+        "entity_type": "DATE"
+    },
+    "784": {
+        "entity_type": "CARDINAL"
+    },
+    "785": {
+        "entity_type": "CARDINAL"
+    },
+    "786": {
+        "entity_type": "ORG"
+    },
+    "787": {
+        "entity_type": "ORG"
+    },
+    "788": {
+        "entity_type": "ORDINAL"
+    },
+    "789": {
+        "entity_type": "ORDINAL"
+    },
+    "790": {
+        "entity_type": "DATE"
+    },
+    "791": {
+        "entity_type": "PRODUCT"
+    },
+    "792": {
+        "entity_type": "ORG"
+    },
+    "794": {
+        "entity_type": "CARDINAL"
+    },
+    "795": {
+        "entity_type": "DATE"
+    },
+    "796": {
+        "entity_type": "GPE"
+    },
+    "797": {
+        "entity_type": "QUANTITY"
+    },
+    "798": {
+        "entity_type": "ORG"
+    },
+    "799": {
+        "entity_type": "ORDINAL"
+    },
+    "800": {
+        "entity_type": "ORG"
+    },
+    "801": {
+        "entity_type": "CARDINAL"
+    },
+    "802": {
+        "entity_type": "GPE"
+    },
+    "803": {
+        "entity_type": "DATE"
+    },
+    "804": {
+        "entity_type": "GPE"
+    },
+    "805": {
+        "entity_type": "CARDINAL"
+    },
+    "806": {
+        "entity_type": "MONEY"
+    },
+    "807": {
+        "entity_type": "CARDINAL"
+    },
+    "808": {
+        "entity_type": "ORG"
+    },
+    "810": {
+        "entity_type": "DATE"
+    },
+    "813": {
+        "entity_type": "ORG"
+    },
+    "814": {
+        "entity_type": "ORG"
+    },
+    "815": {
+        "entity_type": "ORG"
+    },
+    "816": {
+        "entity_type": "ORDINAL"
+    },
+    "817": {
+        "entity_type": "ORG"
+    },
+    "818": {
+        "entity_type": "ORG"
+    },
+    "819": {
+        "entity_type": "ORG"
+    },
+    "821": {
+        "entity_type": "CARDINAL"
+    },
+    "822": {
+        "entity_type": "ORG"
+    },
+    "823": {
+        "entity_type": "DATE"
+    },
+    "824": {
+        "entity_type": "ORG"
+    },
+    "825": {
+        "entity_type": "DATE"
+    },
+    "826": {
+        "entity_type": "ORG"
+    },
+    "827": {
+        "entity_type": "PERSON"
+    },
+    "828": {
+        "entity_type": "ORG"
+    },
+    "829": {
+        "entity_type": "ORG"
+    },
+    "830": {
+        "entity_type": "DATE"
+    },
+    "831": {
+        "entity_type": "ORG"
+    },
+    "832": {
+        "entity_type": "ORG"
+    },
+    "833": {
+        "entity_type": "ORG"
+    },
+    "834": {
+        "entity_type": "ORG"
+    },
+    "835": {
+        "entity_type": "ORG"
+    },
+    "836": {
+        "entity_type": "ORG"
+    },
+    "837": {
+        "entity_type": "ORG"
+    },
+    "838": {
+        "entity_type": "ORG"
+    },
+    "839": {
+        "entity_type": "PERSON"
+    },
+    "840": {
+        "entity_type": "PERSON"
+    },
+    "841": {
+        "entity_type": "LOC"
+    },
+    "842": {
+        "entity_type": "PERSON"
+    },
+    "843": {
+        "entity_type": "CARDINAL"
+    },
+    "844": {
+        "entity_type": "PERCENT"
+    },
+    "846": {
+        "entity_type": "PERCENT"
+    },
+    "847": {
+        "entity_type": "DATE"
+    },
+    "848": {
+        "entity_type": "DATE"
+    },
+    "849": {
+        "entity_type": "DATE"
+    },
+    "850": {
+        "entity_type": "PERSON"
+    },
+    "851": {
+        "entity_type": "LOC"
+    },
+    "852": {
+        "entity_type": "DATE"
+    },
+    "853": {
+        "entity_type": "CARDINAL"
+    },
+    "854": {
+        "entity_type": "DATE"
+    },
+    "855": {
+        "entity_type": "PERCENT"
+    },
+    "856": {
+        "entity_type": "DATE"
+    },
+    "857": {
+        "entity_type": "DATE"
+    },
+    "858": {
+        "entity_type": "ORG"
+    },
+    "859": {
+        "entity_type": "CARDINAL"
+    },
+    "860": {
+        "entity_type": "DATE"
+    },
+    "861": {
+        "entity_type": "DATE"
+    },
+    "862": {
+        "entity_type": "DATE"
+    },
+    "863": {
+        "entity_type": "DATE"
+    },
+    "864": {
+        "entity_type": "DATE"
+    },
+    "865": {
+        "entity_type": "DATE"
+    },
+    "866": {
+        "entity_type": "CONTRACTION"
+    },
+    "867": {
+        "entity_type": "CONTRACTION"
+    },
+    "868": {
+        "entity_type": "CONTRACTION"
+    },
+    "869": {
+        "entity_type": "ORDINAL"
+    },
+    "870": {
+        "entity_type": "PERSON"
+    },
+    "871": {
+        "entity_type": "FAC"
+    },
+    "872": {
+        "entity_type": "YEAR"
+    },
+    "873": {
+        "entity_type": "YEAR"
+    },
+    "874": {
+        "entity_type": "ABBREVIATION"
+    },
+    "875": {
+        "entity_type": "CARDINAL"
+    },
+    "876": {
+        "entity_type": "CARDINAL"
+    },
+    "877": {
+        "entity_type": "CONTRACTION"
+    },
+    "878": {
+        "entity_type": "CONTRACTION"
+    },
+    "879": {
+        "entity_type": "CONTRACTION"
+    },
+    "880": {
+        "entity_type": "CONTRACTION"
+    },
+    "881": {
+        "entity_type": "PERSON"
+    },
+    "882": {
+        "entity_type": "DATE"
+    },
+    "883": {
+        "entity_type": "CARDINAL"
+    },
+    "884": {
+        "entity_type": "ORG"
+    },
+    "885": {
+        "entity_type": "PERCENT"
+    },
+    "886": {
+        "entity_type": "PERCENT"
+    },
+    "887": {
+        "entity_type": "YEAR"
+    },
+    "888": {
+        "entity_type": "YEAR"
+    },
+    "889": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "891": {
+        "entity_type": "CARDINAL"
+    },
+    "892": {
+        "entity_type": "CARDINAL"
+    },
+    "894": {
+        "entity_type": "PERSON"
+    },
+    "895": {
+        "entity_type": "DATE"
+    },
+    "896": {
+        "entity_type": "PERCENT"
+    },
+    "897": {
+        "entity_type": "DATE"
+    },
+    "898": {
+        "entity_type": "DATE"
+    },
+    "899": {
+        "entity_type": "DATE"
+    },
+    "901": {
+        "entity_type": "DATE"
+    },
+    "902": {
+        "entity_type": "MONEY"
+    },
+    "903": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "904": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "906": {
+        "entity_type": "CONTRACTION"
+    },
+    "907": {
+        "entity_type": "MONEY"
+    },
+    "908": {
+        "entity_type": "PRODUCT"
+    },
+    "909": {
+        "entity_type": "PERCENT"
+    },
+    "910": {
+        "entity_type": "YEAR"
+    },
+    "911": {
+        "entity_type": "ALPHANUMERIC"
+    },
+    "913": {
+        "entity_type": "CARDINAL"
+    },
+    "914": {
+        "entity_type": "CARDINAL"
+    },
+    "915": {
+        "entity_type": "CARDINAL"
+    },
+    "916": {
+        "entity_type": "CONTRACTION"
+    },
+    "917": {
+        "entity_type": "CONTRACTION"
+    },
+    "918": {
+        "entity_type": "CONTRACTION"
+    },
+    "919": {
+        "entity_type": "CONTRACTION"
+    },
+    "920": {
+        "entity_type": "CONTRACTION"
+    },
+    "921": {
+        "entity_type": "CONTRACTION"
+    },
+    "922": {
+        "entity_type": "CONTRACTION"
+    },
+    "923": {
+        "entity_type": "CONTRACTION"
+    },
+    "924": {
+        "entity_type": "CONTRACTION"
+    },
+    "925": {
+        "entity_type": "CONTRACTION"
+    },
+    "926": {
+        "entity_type": "CONTRACTION"
+    },
+    "927": {
+        "entity_type": "CONTRACTION"
+    },
+    "928": {
+        "entity_type": "CONTRACTION"
+    },
+    "929": {
+        "entity_type": "CONTRACTION"
+    },
+    "930": {
+        "entity_type": "DATE"
+    },
+    "931": {
+        "entity_type": "DATE"
+    },
+    "933": {
+        "entity_type": "DATE"
+    },
+    "934": {
+        "entity_type": "DATE"
+    },
+    "935": {
+        "entity_type": "DATE"
+    },
+    "936": {
+        "entity_type": "DATE"
+    },
+    "939": {
+        "entity_type": "MONEY"
+    },
+    "940": {
+        "entity_type": "DATE"
+    },
+    "941": {
+        "entity_type": "DATE"
+    },
+    "942": {
+        "entity_type": "CONTRACTION"
+    },
+    "945": {
+        "entity_type": "CONTRACTION"
+    },
+    "946": {
+        "entity_type": "CONTRACTION"
+    },
+    "947": {
+        "entity_type": "CONTRACTION"
+    },
+    "948": {
+        "entity_type": "CONTRACTION"
+    },
+    "949": {
+        "entity_type": "CONTRACTION"
+    },
+    "950": {
+        "entity_type": "CONTRACTION"
+    },
+    "951": {
+        "entity_type": "CONTRACTION"
+    },
+    "952": {
+        "entity_type": "CONTRACTION"
+    },
+    "953": {
+        "entity_type": "CONTRACTION"
+    },
+    "954": {
+        "entity_type": "CONTRACTION"
+    },
+    "955": {
+        "entity_type": "NORP"
+    },
+    "956": {
+        "entity_type": "DATE"
+    },
+    "957": {
+        "entity_type": "DATE"
+    },
+    "958": {
+        "entity_type": "DATE"
+    },
+    "959": {
+        "entity_type": "CONTRACTION"
+    },
+    "960": {
+        "entity_type": "ORG"
+    },
+    "961": {
+        "entity_type": "ORG"
+    },
+    "962": {
+        "entity_type": "PERSON"
+    },
+    "963": {
+        "entity_type": "DATE"
+    },
+    "964": {
+        "entity_type": "CONTRACTION"
+    },
+    "965": {
+        "entity_type": "CONTRACTION"
+    },
+    "966": {
+        "entity_type": "DATE"
+    },
+    "967": {
+        "entity_type": "PERCENT"
+    },
+    "969": {
+        "entity_type": "CONTRACTION"
+    },
+    "970": {
+        "entity_type": "CONTRACTION"
+    },
+    "971": {
+        "entity_type": "PERCENT"
+    },
+    "972": {
+        "entity_type": "DATE"
+    },
+    "973": {
+        "entity_type": "DATE"
+    },
+    "974": {
+        "entity_type": "CONTRACTION"
+    },
+    "975": {
+        "entity_type": "CONTRACTION"
+    },
+    "976": {
+        "entity_type": "CONTRACTION"
+    },
+    "977": {
+        "entity_type": "CONTRACTION"
+    },
+    "978": {
+        "entity_type": "CONTRACTION"
+    },
+    "979": {
+        "entity_type": "LOC"
+    },
+    "981": {
+        "entity_type": "CARDINAL"
+    },
+    "982": {
+        "entity_type": "CONTRACTION"
+    },
+    "983": {
+        "entity_type": "ORG"
+    },
+    "985": {
+        "entity_type": "CONTRACTION"
+    },
+    "986": {
+        "entity_type": "CONTRACTION"
+    },
+    "987": {
+        "entity_type": "QUANTITY"
+    },
+    "988": {
+        "entity_type": "DATE"
+    },
+    "989": {
+        "entity_type": "ABBREVIATION"
+    },
+    "990": {
+        "entity_type": "ORG"
+    },
+    "991": {
+        "entity_type": "CONTRACTION"
+    },
+    "992": {
+        "entity_type": "CONTRACTION"
+    },
+    "994": {
+        "entity_type": "PERCENT"
+    },
+    "995": {
+        "entity_type": "YEAR"
+    },
+    "996": {
+        "entity_type": "CARDINAL"
+    },
+    "998": {
+        "entity_type": "CONTRACTION"
+    },
+    "999": {
+        "entity_type": "CONTRACTION"
+    },
+    "1000": {
+        "entity_type": "DATE"
+    },
+    "1003": {
+        "entity_type": "MONEY"
+    },
+    "1005": {
+        "entity_type": "CARDINAL"
+    },
+    "1006": {
+        "entity_type": "CONTRACTION"
+    },
+    "1007": {
+        "entity_type": "CONTRACTION"
+    },
+    "1008": {
+        "entity_type": "CONTRACTION"
+    },
+    "1009": {
+        "entity_type": "CONTRACTION"
+    },
+    "1010": {
+        "entity_type": "DATE"
+    },
+    "1011": {
+        "entity_type": "DATE"
+    },
+    "1012": {
+        "entity_type": "DATE"
+    },
+    "1013": {
+        "entity_type": "MONEY"
+    },
+    "1014": {
+        "entity_type": "CARDINAL"
+    },
+    "1015": {
+        "entity_type": "MONEY"
+    },
+    "1017": {
+        "entity_type": "CONTRACTION"
+    },
+    "1018": {
+        "entity_type": "CONTRACTION"
+    },
+    "1019": {
+        "entity_type": "DATE"
+    },
+    "1021": {
+        "entity_type": "ORG"
+    },
+    "1022": {
+        "entity_type": "CONTRACTION"
+    },
+    "1024": {
+        "entity_type": "PERCENT"
+    },
+    "1025": {
+        "entity_type": "CARDINAL"
+    },
+    "1027": {
+        "entity_type": "CONTRACTION"
+    },
+    "1028": {
+        "entity_type": "DATE"
+    },
+    "1030": {
+        "entity_type": "CARDINAL"
+    },
+    "1031": {
+        "entity_type": "CARDINAL"
+    },
+    "1032": {
+        "entity_type": "WEBSITE"
+    },
+    "1033": {
+        "entity_type": "CONTRACTION"
+    },
+    "1034": {
+        "entity_type": "PERSON"
+    },
+    "1035": {
+        "entity_type": "PERSON"
+    },
+    "1036": {
+        "entity_type": "CONTRACTION"
+    },
+    "1037": {
+        "entity_type": "CONTRACTION"
+    },
+    "1038": {
+        "entity_type": "CONTRACTION"
+    },
+    "1039": {
+        "entity_type": "DATE"
+    },
+    "1040": {
+        "entity_type": "ORG"
+    },
+    "1041": {
+        "entity_type": "DATE"
+    },
+    "1042": {
+        "entity_type": "DATE"
+    },
+    "1043": {
+        "entity_type": "ORG"
+    },
+    "1044": {
+        "entity_type": "DATE"
+    },
+    "1045": {
+        "entity_type": "TIME"
+    },
+    "1047": {
+        "entity_type": "DATE"
+    },
+    "1080": {
+        "entity_type": "MONEY"
+    },
+    "1081": {
+        "entity_type": "CARDINAL"
+    },
+    "1082": {
+        "entity_type": "CARDINAL"
+    },
+    "1083": {
+        "entity_type": "CARDINAL"
+    },
+    "1084": {
+        "entity_type": "CARDINAL"
+    },
+    "1085": {
+        "entity_type": "MONEY"
+    }
+}
