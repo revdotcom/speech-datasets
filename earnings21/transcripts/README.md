@@ -1,6 +1,13 @@
+# Overall
+
+||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
+|--|--|--|--|--|--|--|--|
+|_Earnings21_|17.8|17.0|15.8|16.0|13.2|12.8|60.5|
+|_Eval-10_|18.5|18.0|16.2|16.7|12.2|12.7|62.9|
+
 # Entity Results
 
-|Entity WER|Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
+||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
 |_Mean Entity_|30.4|28.8|20.7|28.8|19.6|18.8|55.9|24.5|
 |ABBREVIATION|48.8|50.7|49.0|62.8|39.0|39.0|81.0|48.2|
@@ -29,3 +36,28 @@
 |WORK_OF_ART|27.2|28.4|21.4|28.4|23.5|31.8|64.3|26.8|
 |YEAR|21.6|19.9|3.2|16.4|1.6|1.9|22.7|10.8|
 |AVERAGE|30.4|28.8|20.7|28.8|19.6|18.8|55.9|24.5|
+
+# Sector Results
+
+||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
+|--|--|--|--|--|--|--|--|
+|_Mean Sector_|17.8|17.1|15.8|16.0|13.2|12.8|60.5|
+|Conglomerates|15.5|15.4|14.1|14.0|8.0|10.8|56.0|
+|Utilities|15.9|15.9|14.8|14.2|10.3|11.7|58.2|
+|Basic Materials|16.7|15.5|14.6|14.5|11.0|12.1|57.1|
+|Services|16.8|16.6|14.8|15.2|11.5|11.8|56.5|
+|Healthcare|17.1|17.1|15.6|16.0|11.0|12.4|57.0|
+|Financial|18.0|17.0|15.6|15.5|13.2|12.7|61.4|
+|Consumer Goods|18.7|17.3|16.0|16.1|12.1|12.3|62.2|
+|Technology|20.6|18.9|17.1|17.4|16.0|14.4|66.3|
+|Industrial Goods|21.2|20.0|19.3|21.0|25.9|16.8|69.4|
+
+# Sampling Rate Results
+
+||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
+|_Mean Sample Rate_|18.1|17.5|16.2|16.4|14.5|13.3|60.7|
+|44100|16.0|15.5|14.9|14.4|10.0|10.9|53.6|
+|24000|17.3|16.3|15.0|15.2|11.3|12.1|61.2|
+|22050|14.6|15.6|13.4|12.6|8.9|11.2|56.8|
+|16000|22.9|21.1|20.4|22.3|28.1|17.7|68.5|
+|11025|19.9|19.1|17.2|17.5|14.2|14.5|63.4|
