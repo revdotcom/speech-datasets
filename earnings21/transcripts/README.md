@@ -1,11 +1,16 @@
-# Overall
+In this directory, you can find the transcripts for each recording including the corresponding entity labels and normalization files. Our results are generated using Rev's [fstalign][https://github.com/revdotcom/fstalign] algorithm by feeding in the files in `nlp_transcripts` and the corresponding file in `normalizations`. In the returned, `.log.json` files, we find error information for each entity described in the corresponding `.wer_tag.json` in `wer_tags`.
+
+# Results
+The following table summarize results from our paper and adds more color to the entity specific WER.
+
+## Overall
 
 ||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
 |_Earnings21_|17.8|17.0|15.8|16.0|13.2|12.8|60.5|
 |_Eval-10_|18.5|18.0|16.2|16.7|12.2|12.7|62.9|
 
-# Entity Results
+## Entity
 
 ||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
@@ -37,7 +42,7 @@
 |YEAR|21.6|19.9|3.2|16.4|1.6|1.9|22.7|10.8|
 |AVERAGE|30.4|28.8|20.7|28.8|19.6|18.8|55.9|24.5|
 
-# Sector Results
+## Sector
 
 ||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
@@ -52,7 +57,7 @@
 |Technology|20.6|18.9|17.1|17.4|16.0|14.4|66.3|
 |Industrial Goods|21.2|20.0|19.3|21.0|25.9|16.8|69.4|
 
-# Sampling Rate Results
+## Sampling Rate
 
 ||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
