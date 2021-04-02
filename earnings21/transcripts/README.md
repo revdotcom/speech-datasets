@@ -55,6 +55,7 @@
 # Sampling Rate Results
 
 ||Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
+|--|--|--|--|--|--|--|--|
 |_Mean Sample Rate_|18.1|17.5|16.2|16.4|14.5|13.3|60.7|
 |44100|16.0|15.5|14.9|14.4|10.0|10.9|53.6|
 |24000|17.3|16.3|15.0|15.2|11.3|12.1|61.2|
