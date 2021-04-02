@@ -2,6 +2,7 @@
 
 |Entity WER|Google|Amazon|Microsoft|Speechmatics|Rev<br />Kaldi|Rev<br />ESPNet|Kaldi.org<br />Librispeech|
 |--|--|--|--|--|--|--|--|
+|_Mean Entity_|30.4|28.8|20.7|28.8|19.6|18.8|55.9|24.5|
 |ABBREVIATION|48.8|50.7|49.0|62.8|39.0|39.0|81.0|48.2|
 |ALPHANUMERIC|30.5|45.3|15.5|30.2|15.2|12.8|60.9|24.9|
 |CARDINAL|17.8|18.3|7.4|11.1|4.4|3.9|34.2|10.5|
