@@ -9,6 +9,8 @@
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
 * [Results](#results)
+* [WER Calculation](#wer-calculation)
+* [Cite this Dataset](#cite-this-dataset)
 
 # File Format Overview
 In the following section, we provide an overview of the file formats we provide with this dataset.
@@ -112,3 +114,20 @@ In the following table, we provide a list of all possible entity tags we provide
 
 # Results
 Tables found in the paper along with all entity class WER can be found within the `transcripts` directory.
+
+# WER Calculation
+All of our analysis on this dataset is done through the use of our newly released [fstalign](https://github.com/revdotcom/fstalign/tree/master) tool. We strongly recommend the use of this tool to quickly get started using the *Earnings-21* dataset.
+
+# Cite this Dataset
+This dataset has been submitted to Interspeech 2021.
+The paper describing our methods and results can be found on arXiv at https://arxiv.org/pdf/2104.11348.pdf
+```
+@misc{delrio2021earnings21,
+      title={Earnings-21: A Practical Benchmark for ASR in the Wild}, 
+      author={Miguel Del Rio and Natalie Delworth and Ryan Westerman and Michelle Huang and Nishchal Bhandari and Joseph Palakapilly and Quinten McNamara and Joshua Dong and Piotr Zelasko and Miguel Jette},
+      year={2021},
+      eprint={2104.11348},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
