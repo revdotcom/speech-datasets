@@ -1,6 +1,6 @@
 ## May 18th, 2021
 
-Added Rev outputs in the NLP format. These can be found in `outputs/rev/kaldi/nlp` and `outputs/rev/espnet/nlp`. The old outputs are still available in `outputs/rev/kaldi/ctm` and ``outputs/rev/espnet/text`
+Added Rev and Kaldi.org outputs in the NLP format. These can be found in `outputs/rev/kaldi/nlp`, `outputs/rev/espnet/nlp`, and `outputs/kaldi_org/librispeech/nlp`. The old outputs are still available in `outputs/rev/kaldi/ctm`, `outputs/rev/espnet/text` and `outputs/kaldi_org/librispeech/ctm`
 
 ## April 28th, 2021
 
