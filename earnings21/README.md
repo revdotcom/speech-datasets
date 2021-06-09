@@ -15,7 +15,7 @@ This work has been recently accepted to Interspeech 2021!
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
 * [Results and Eval-10](#results)
-  + [Eval-10: A Representative Earnings-21 Subset](#eval-10:-a-representative-earnings-21-subset)
+  + [Eval-10: A Representative Earnings-21 Subset](#eval-10-a-representative-earnings-21-subset)
 * [WER Calculation](#wer-calculation)
 * [Cite this Dataset](#cite-this-dataset)
 
