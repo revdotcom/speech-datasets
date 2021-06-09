@@ -15,6 +15,7 @@ This work has been recently accepted to Interspeech 2021!
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
 * [Results and Eval-10](#results)
+  + [Eval-10: A Representative Earnings-21 Subset](#eval-10:-a-representative-earnings-21-subset)
 * [WER Calculation](#wer-calculation)
 * [Cite this Dataset](#cite-this-dataset)
 
@@ -121,7 +122,7 @@ In the following table, we provide a list of all possible entity tags we provide
 # Results
 Tables found in the paper along with all entity class WER can be found within the `transcripts` directory.
 
-## Eval-10
+## Eval-10: A Representative Earnings-21 Subset
 Along with the results found in the paper, we've included a subset denoted as Eval-10 which is a representative 10 hour sample of the full Earnings-21 corpus. This subset is not meant to replace the full dataset but rather allow for researchers to quickly evaluate their systems before running results on the full dataset. WER calculations for all systems on this subset can be found within the same table found in the `transcripts` directory.
 
 # WER Calculation
