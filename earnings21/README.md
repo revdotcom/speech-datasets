@@ -3,7 +3,8 @@
 # Earnings 21
 
 The Earnings 21 dataset ( also referred to as earnings21 ) is a 39-hour corpus of earnings calls containing entity dense speech from nine different financial sectors. This corpus is intended to benchmark automatic speech recognition (ASR) systems in the wild with special attention towards named entity recognition (NER).
-We've recently been accepted into Interspeech 2021!
+
+This work has been recently accepted to Interspeech 2021!
 
 # Table of Contents
 
