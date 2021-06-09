@@ -1,5 +1,11 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE.md)
 
+# Earnings 21
+
+The Earnings 21 dataset ( also referred to as earnings21 ) is a 39-hour corpus of earnings calls containing entity dense speech from nine different financial sectors. This corpus is intended to benchmark automatic speech recognition (ASR) systems in the wild with special attention towards named entity recognition (NER).
+
+This work has been recently accepted to Interspeech 2021!
+
 # Table of Contents
 
 * [File Format Overview](#file-format-overview)
@@ -8,7 +14,8 @@
   + [wer_tag JSON](#wer_tag-json)
     - [Example](#example-wer_tag-json)
 * [Entity Labels](#entity-labels)
-* [Results](#results)
+* [Results and Eval-10](#results)
+  + [Eval-10: A Representative Earnings-21 Subset](#eval-10-a-representative-earnings-21-subset)
 * [WER Calculation](#wer-calculation)
 * [Cite this Dataset](#cite-this-dataset)
 
@@ -52,7 +59,7 @@ NexGEn|0||||MC|['7:ORG']|['7']
 ## wer_tag JSON
 The wer_tags sidecar JSON is used in combination with an nlp file and exclusively when that file is using the wer_tags column. It is used to provide entity information about each entity ID. It is formatted such that the JSON acts as a list of objects that map the ID of an entity to an object specifying the entity_type as the entity label. The object is formatted such that:
 
-```
+```json
 "ID":{
   "entity_type" : "LABEL"
 }
@@ -61,7 +68,7 @@ The wer_tags sidecar JSON is used in combination with an nlp file and exclusivel
 ### Example wer_tag JSON
 `example.wer_tags.json`
 
-```
+```json
 {
   "0":{
     "entity_type" : "YEAR"
@@ -114,6 +121,9 @@ In the following table, we provide a list of all possible entity tags we provide
 
 # Results
 Tables found in the paper along with all entity class WER can be found within the `transcripts` directory.
+
+## Eval-10: A Representative Earnings-21 Subset
+Along with the results found in the paper, we've included a subset denoted as Eval-10 which is a representative 10 hour sample of the full Earnings-21 corpus. This subset is not meant to replace the full dataset but rather allow for researchers to quickly evaluate their systems before running results on the full dataset. WER calculations for all systems on this subset can be found within the same table found in the `transcripts` directory.
 
 # WER Calculation
 All of our analysis on this dataset is done through the use of our newly released [fstalign](https://github.com/revdotcom/fstalign/tree/master) tool. We strongly recommend the use of this tool to quickly get started using the *Earnings-21* dataset.
