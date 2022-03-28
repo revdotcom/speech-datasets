@@ -1,4 +1,4 @@
-In this directory, you can find the transcripts for each recording. Results were calculated using Rev's [fstalign](https://github.com/revdotcom/fstalign) algorithm by feeding in the files in `nlp_references` and the output transcriptions from different providers.
+In this directory, you can find the un-normalized transcripts for each recording. Results were calculated using Rev's [fstalign](https://github.com/revdotcom/fstalign) algorithm by feeding in the files in `nlp_references` and the output transcriptions from different providers.
 
 # Results
 
