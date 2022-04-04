@@ -72,4 +72,3 @@ The paper describing our methods and results can be found on arXiv at https://ar
   year = {2022},
   copyright = {Creative Commons Attribution Share Alike 4.0 International}
 }
-```
