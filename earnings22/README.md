@@ -60,7 +60,15 @@ All of our analysis on this dataset is done through the use of our newly release
 
 # Cite this Dataset
 This dataset has been submitted to Interspeech 2022.
-The paper describing our methods and results can be found on arXiv at <ARXIV LINK>
+The paper describing our methods and results can be found on arXiv at https://arxiv.org/abs/2203.15591.
 ```
-ARXIV PATH
-```
+@misc{https://doi.org/10.48550/arxiv.2203.15591,
+  doi = {10.48550/ARXIV.2203.15591},
+  url = {https://arxiv.org/abs/2203.15591},
+  author = {Del Rio, Miguel and Ha, Peter and McNamara, Quinten and Miller, Corey and Chandra, Shipra},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Earnings-22: A Practical Benchmark for Accents in the Wild},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
