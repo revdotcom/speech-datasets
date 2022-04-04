@@ -12,6 +12,7 @@ In each dataset, the most up-to-date version of the dataset will always be in th
 | Dataset | Description |
 | ------- | ----------- |
 |`earnings21` | This dataset contains 44 files totalling roughly 39 hours of earnings calls from the year 2020. This dataset provides the full audios, the transcripts, and accompanying metadata such as speaker labels, punctuation, and entity tags. |
+|`earnings22` | This dataset contains 125 files totalling roughly 119 hours of English language earnings calls from global countries. This dataset provides the full audios, transcripts, and accompanying metadata such as ticker symbol, headquarters country, and our defined "Language Region".
 
 # How to Check Out Only a Single Dataset
 
