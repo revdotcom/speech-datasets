@@ -1,5 +1,4 @@
 # speech-datasets
-[broken link](lnk)
 
 Various speech datasets made available to the public.
 
