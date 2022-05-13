@@ -35,3 +35,28 @@ As we grow this repository, we expect that it will grow in size and will make pu
   git sparse-checkout set earnings21
   ```
   These commands will only checkout the `earnings21` dataset.
+  
+# Github Large File Storage (LFS)
+Due to the length of some media files in our corpora, we have added Github's LFS to allow us to upload large files for ease of download by users.
+
+The impact is a few added steps to be able to access these files.
+
+## Affected Datasets
+- `earnings22`
+
+## Steps to Download from LFS
+1. The first step is to download and install Git LFS onto your machine. We recommend following [Github's step-by-step instructions found here](https://git-lfs.github.com/)
+2. Run the following commands from the main directory of `speech-datasets`:
+  ```
+  cd ${DATASET_NAME}
+  git lfs pull
+  ```
+
+  e.g.
+  ```
+  cd earnings22
+  git lfs pull
+  ```
+
+
+  
