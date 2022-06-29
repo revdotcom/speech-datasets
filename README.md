@@ -5,6 +5,8 @@ Various speech datasets made available to the public.
 # Release Notes
 ## `202206`
 * `earnings-21`: Updated the some reference transcripts with some errors identified as part of our routine testing.
+    - Diff: +44 −45
+    - Modified 8 nlp files and 1 norm.json file
 * `earnings-22`: No changes since release of `202204`
 
 # Table of Contents
