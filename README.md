@@ -3,9 +3,9 @@
 Various speech datasets made available to the public.
 
 # Release Notes
-`202206`
-`earnings-21`: Updated the some reference transcripts with some errors identified as part of our routine testing.
-`earnings-22`: No changes since release of `202204`
+## `202206`
+* `earnings-21`: Updated the some reference transcripts with some errors identified as part of our routine testing.
+* `earnings-22`: No changes since release of `202204`
 
 # Table of Contents
 * [Datasets](#datasets)
