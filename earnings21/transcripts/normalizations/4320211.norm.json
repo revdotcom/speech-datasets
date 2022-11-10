@@ -11632,5 +11632,18 @@
       }
     ],
     "class": "FALLBACK"
+  },
+  "1057": {
+    "candidates": [
+      {
+        "probability": 0.5,
+        "verbalization": ["We've"]
+      },
+      {
+        "probability": 0.5,
+        "verbalization": ["We", "have"]
+      }
+    ],
+    "class": "CONTRACTION"
   }
 }

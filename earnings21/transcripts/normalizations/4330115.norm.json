@@ -300,24 +300,6 @@
     ],
     "class": "CONTRACTION"
   },
-  "21": {
-    "candidates": [
-      {
-        "probability": 0.5,
-        "verbalization": [
-          "it",
-          "is"
-        ]
-      },
-      {
-        "probability": 0.5,
-        "verbalization": [
-          "it's"
-        ]
-      }
-    ],
-    "class": "CONTRACTION"
-  },
   "22": {
     "candidates": [
       {
@@ -1933,24 +1915,6 @@
       }
     ],
     "class": "CARDINAL"
-  },
-  "182": {
-    "candidates": [
-      {
-        "probability": 0.5,
-        "verbalization": [
-          "out",
-          "of"
-        ]
-      },
-      {
-        "probability": 0.5,
-        "verbalization": [
-          "outta"
-        ]
-      }
-    ],
-    "class": "CONTRACTION"
   },
   "183": {
     "candidates": [
@@ -4719,5 +4683,57 @@
       }
     ],
     "class": "FALLBACK"
+  },
+  "679": {
+    "candidates": [
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "8-K"
+        ]
+      },
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "eight",
+          "K"
+        ]
+      },
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "eight",
+          "dash",
+          "K"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "680": {
+    "candidates": [
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "8-K"
+        ]
+      },
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "eight",
+          "K"
+        ]
+      },
+      {
+        "probability": 0.3333333333333333,
+        "verbalization": [
+          "eight",
+          "dash",
+          "K"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
   }
 }
