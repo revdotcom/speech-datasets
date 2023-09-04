@@ -1,1 +1,2 @@
 longform_reconstitution/voxpopuli/aligned/voxpopuli_train_supervisions_aligned.jsonl filter=lfs diff=lfs merge=lfs -text
+longform_reconstitution/tedlium/tedlium_train_fill-in*.gz filter=lfs diff=lfs merge=lfs -text
