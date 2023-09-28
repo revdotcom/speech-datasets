@@ -3,6 +3,8 @@
 Various speech datasets made available to the public.
 
 # Release Notes
+## `202309`
+* `longform-reconstitution`: Added long-form data described in https://arxiv.org/abs/2309.15013
 ## `202206`
 * `earnings-21`: Updated the some reference transcripts with some errors identified as part of our routine testing.
     - Diff: +44 −45
@@ -19,7 +21,9 @@ In each dataset, the most up-to-date version of the dataset will always be in th
 | Dataset | Description |
 | ------- | ----------- |
 |`earnings21` | This dataset contains 44 files totalling roughly 39 hours of earnings calls from the year 2020. This dataset provides the full audios, the transcripts, and accompanying metadata such as speaker labels, punctuation, and entity tags. |
-|`earnings22` | This dataset contains 125 files totalling roughly 119 hours of English language earnings calls from global countries. This dataset provides the full audios, transcripts, and accompanying metadata such as ticker symbol, headquarters country, and our defined "Language Region".
+|`earnings22` | This dataset contains 125 files totalling roughly 119 hours of English language earnings calls from global countries. This dataset provides the full audios, transcripts, and accompanying metadata such as ticker symbol, headquarters country, and our defined "Language Region". |
+| `longform-reconstitution` | Long-form versions of the Gigaspeech, TED-LIUM, and VoxPopuli-en corpora. See https://arxiv.org/abs/2309.15013 for details |
+
 
 # How to Check Out Only a Single Dataset
 
@@ -50,6 +54,7 @@ The impact is a few added steps to be able to access these files.
 
 ## Affected Datasets
 - `earnings22`
+- `longform-reconstitution`
 
 ## Steps to Download from LFS
 1. The first step is to download and install Git LFS onto your machine. We recommend following [Github's step-by-step instructions found here](https://git-lfs.github.com/)
