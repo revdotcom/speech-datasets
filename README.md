@@ -3,6 +3,8 @@
 Various speech datasets made available to the public.
 
 # Release Notes
+## `2023012`
+* `rttms` - added RTTM files to evaluate diarization (DER and possibly other metrics)
 ## `202309`
 * `longform-reconstitution`: Added long-form data described in https://arxiv.org/abs/2309.15013
 ## `202206`
