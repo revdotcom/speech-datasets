@@ -4,9 +4,10 @@ Our results are using https://github.com/nryant/dscore or rather directly NIST o
 # Results
 You can find diarization results in the following table
 
-|pyannote3.0 DER|rev DER|
-|--|--|
-|9.38%|7.46%|
+|System|DER|MISSED|FALARM|SPEAKER ERROR|
+|--|--|--|--|--|
+|pyannote 3.1.1|9.36%|2.63%|2.33%|4.40%|
+|rev DER|7.71%|1.47%|1.34%|4.89%|
 
 Please note that two files, specifically `4341191` and `4363614` were retranscribed by 
 a human annotator because of incorrect speaker labels in some parts of the audio 
