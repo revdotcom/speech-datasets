@@ -6,7 +6,7 @@ You can find diarization results in the following table
 
 |System|DER|MISSED|FALARM|SPEAKER ERROR|
 |--|--|--|--|--|
-|pyannote3.0||||
+|pyannote 3.1.1|9.36%|2.63%|2.33%|4.40%|
 |rev DER|7.71%|1.47%|1.34%|4.89%|
 
 Please note that two files, specifically `4341191` and `4363614` were retranscribed by 
