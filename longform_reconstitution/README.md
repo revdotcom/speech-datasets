@@ -59,3 +59,15 @@ Lhotse supervisions for VoxPopuli en expanded.
 `voxpopuli/voxpopuli_en_train_lf_expanded.jsonl.gz` - expanded reconstitution of VoxPopuli en train. Average segment length 143.7s
 `voxpopuli/voxpopuli_en_dev_lf_expanded.jsonl.gz` - expanded reconstitution of VoxPopuli en dev. Average segment length 120.5
 `voxpopuli/voxpopuli_en_test_lf_expanded.jsonl.gz` - expanded reconstitution of VoxPopuli en test. Average segment length 108.5
+
+## Note on WERs in different reconstitution conditions
+
+TED-LIUM provides us with an opportunity to compare WER on one training-partition talk (CKWilliams_2001) in the original, linked and expanded conditions. For the original condition, we used the transcripts and timings in the stm file. The linked condition uses the same transcripts as the original condition. The expanded condition uses transcripts from the TED scrape, upon which we performed light normalization of punctuation and separated some words that had been glommed together. We evaluated all three using Rev’s production engine in January, 2024.
+
+As can be seen in the below table, the number of segments decreases from the original condition to the linked condition and to a single segment in the expanded condition. WER progressively declines as we proceed from original to linked to expanded. We observed cases where the TED-LIUM original segments were erroneously aligned to the transcriptions; in other words, a segment’s end time sometimes precedes the utterance of all the words contained in the segment. This situation can be potentially alleviated by the linking process, and obviated entirely in the expanded scenario. We ascribe WER improvements to such boundary “issues” as well as the opportunity to perform more appropriate acoustic and language modeling as artificial boundaries are avoided. We hope to explore this sort of analysis further in future work.
+
+| Condition | Number of segments | WER% (I/D/S)         |
+|-----------|--------------------|----------------------|
+| original  | 152                | 4.49 (1.65/.67/2.17) |
+| linked    | 26                 | 4.22 (1.5/.39/2.33)  |
+| expanded  | 1                  | 3.97 (.99/.32/2.66)  |
