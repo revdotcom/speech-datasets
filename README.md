@@ -3,6 +3,9 @@
 Various speech datasets made available to the public.
 
 # Release Notes
+## `202408`
+* `earnings-21`: Updated 4341191 to resolve off-by-one labeling issue
+* `earnings-22`: Updated to include `<>` symbols around `<inaudible>` and `<crosstalk>` tags
 ## `2023012`
 * `rttms` - added RTTM files to evaluate diarization (DER and possibly other metrics)
 ## `202309`
