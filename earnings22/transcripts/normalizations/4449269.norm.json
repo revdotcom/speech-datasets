@@ -1,0 +1,8352 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 0.18495861820798848,
+        "verbalization": [
+          "E",
+          "S",
+          "G"
+        ]
+      },
+      {
+        "probability": 0.8150413817920115,
+        "verbalization": [
+          "ESG"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 0.7748838109992254,
+        "verbalization": [
+          "C",
+          "E",
+          "O"
+        ]
+      },
+      {
+        "probability": 0.2251161890007746,
+        "verbalization": [
+          "CEO"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 0.05475684693374995,
+        "verbalization": [
+          "I",
+          "am"
+        ]
+      },
+      {
+        "probability": 0.9452431530662501,
+        "verbalization": [
+          "I'm"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "5": {
+    "candidates": [
+      {
+        "probability": 0.04234089817971731,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.9576591018202827,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "6": {
+    "candidates": [
+      {
+        "probability": 0.08669283586610795,
+        "verbalization": [
+          "we",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.913307164133892,
+        "verbalization": [
+          "we'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "7": {
+    "candidates": [
+      {
+        "probability": 4.805825429352444e-06,
+        "verbalization": [
+          "'cause"
+        ]
+      },
+      {
+        "probability": 0.7678819958400775,
+        "verbalization": [
+          "because"
+        ]
+      },
+      {
+        "probability": 0.23211319833449315,
+        "verbalization": [
+          "cuz"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "8": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "9": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "sixteen",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "10": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "twenty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "11": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "12": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "13": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "14": {
+    "candidates": [
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "dash",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "hyphen",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "minus",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "to",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "ninety",
+          "five",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "ninety",
+          "five",
+          "dash",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "ninety",
+          "five",
+          "hyphen",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "ninety",
+          "five",
+          "minus",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "ninety",
+          "five",
+          "to",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "dash",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "hyphen",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "minus",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "ninety",
+          "five",
+          "to",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "ninety",
+          "five",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "ninety",
+          "five",
+          "dash",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "ninety",
+          "five",
+          "hyphen",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "ninety",
+          "five",
+          "minus",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "ninety",
+          "five",
+          "to",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "ninety",
+          "five",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "ninety",
+          "five",
+          "dash",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "ninety",
+          "five",
+          "hyphen",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "ninety",
+          "five",
+          "minus",
+          "E",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.04,
+        "verbalization": [
+          "E",
+          "one",
+          "ninety",
+          "five",
+          "to",
+          "E",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "15": {
+    "candidates": [
+      {
+        "probability": 0.2,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "and",
+          "seventy",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.2,
+        "verbalization": [
+          "E",
+          "a",
+          "hundred",
+          "seventy",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.2,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "and",
+          "seventy",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.2,
+        "verbalization": [
+          "E",
+          "one",
+          "hundred",
+          "seventy",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.2,
+        "verbalization": [
+          "E",
+          "one",
+          "seventy",
+          "five"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "16": {
+    "candidates": [
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "ninety"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "17": {
+    "candidates": [
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "dash",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "hyphen",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "minus",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "K",
+          "C",
+          "to",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "dash",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "hyphen",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "minus",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "three",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "hundred",
+          "and",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "hundred",
+          "ninety"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "KC",
+          "to",
+          "three",
+          "ninety"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "18": {
+    "candidates": [
+      {
+        "probability": 0.3636363636363636,
+        "verbalization": [
+          "O",
+          "G",
+          "M",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.6363636363636364,
+        "verbalization": [
+          "OGMA"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "19": {
+    "candidates": [
+      {
+        "probability": 0.24476987447698745,
+        "verbalization": [
+          "C",
+          "F",
+          "O"
+        ]
+      },
+      {
+        "probability": 0.7552301255230126,
+        "verbalization": [
+          "CFO"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "20": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "21": {
+    "candidates": [
+      {
+        "probability": 0.9997831743278404,
+        "verbalization": [
+          "thirty",
+          "four"
+        ]
+      },
+      {
+        "probability": 0.0002168256721595837,
+        "verbalization": [
+          "three",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "23": {
+    "candidates": [
+      {
+        "probability": 0.9999920325073699,
+        "verbalization": [
+          "twenty"
+        ]
+      },
+      {
+        "probability": 3.983746315034659e-06,
+        "verbalization": [
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 3.983746315034659e-06,
+        "verbalization": [
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "27": {
+    "candidates": [
+      {
+        "probability": 0.8136205481775549,
+        "verbalization": [
+          "you",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.1863794518224451,
+        "verbalization": [
+          "you're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "28": {
+    "candidates": [
+      {
+        "probability": 0.723298621411063,
+        "verbalization": [
+          "you",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.27670137858893695,
+        "verbalization": [
+          "you'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "29": {
+    "candidates": [
+      {
+        "probability": 0.040374138214932596,
+        "verbalization": [
+          "I",
+          "had"
+        ]
+      },
+      {
+        "probability": 0.04830649837844803,
+        "verbalization": [
+          "I",
+          "would"
+        ]
+      },
+      {
+        "probability": 0.9113193634066193,
+        "verbalization": [
+          "I'd"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "30": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "31": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "32": {
+    "candidates": [
+      {
+        "probability": 0.08201260012856662,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.9179873998714334,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "33": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "34": {
+    "candidates": [
+      {
+        "probability": 0.7059245279040098,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.2940754720959902,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "35": {
+    "candidates": [
+      {
+        "probability": 0.6940298097170221,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.3059701902829779,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "36": {
+    "candidates": [
+      {
+        "probability": 0.6940298097170221,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.3059701902829779,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "37": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "twelve",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "38": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "six",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "39": {
+    "candidates": [
+      {
+        "probability": 0.07407407407407407,
+        "verbalization": [
+          "two",
+          "fifty",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.2962962962962963,
+        "verbalization": [
+          "two",
+          "hundred",
+          "and",
+          "fifty",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.6296296296296297,
+        "verbalization": [
+          "two",
+          "hundred",
+          "fifty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "40": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "41": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "42": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "sixty",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "43": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "thirty",
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "44": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "sixteen",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "45": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "46": {
+    "candidates": [
+      {
+        "probability": 0.5998051877773368,
+        "verbalization": [
+          "twenty",
+          "nineteen"
+        ]
+      },
+      {
+        "probability": 1.8038168765106967e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "one",
+          "nine"
+        ]
+      },
+      {
+        "probability": 0.054619575020743896,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "nineteen"
+        ]
+      },
+      {
+        "probability": 0.34553916086438907,
+        "verbalization": [
+          "two",
+          "thousand",
+          "nineteen"
+        ]
+      },
+      {
+        "probability": 1.8038168765106967e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "one",
+          "nine"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "47": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "48": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "49": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "50": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "51": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "52": {
+    "candidates": [
+      {
+        "probability": 0.9994750656167979,
+        "verbalization": [
+          "fifty",
+          "nine"
+        ]
+      },
+      {
+        "probability": 0.0005249343832020997,
+        "verbalization": [
+          "five",
+          "nine"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "53": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "one",
+          "point",
+          "seven"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "55": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifteen",
+          "point",
+          "nine"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "57": {
+    "candidates": [
+      {
+        "probability": 0.9998664529914529,
+        "verbalization": [
+          "forty",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.00013354700854700856,
+        "verbalization": [
+          "four",
+          "eight"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "59": {
+    "candidates": [
+      {
+        "probability": 0.9999716215449231,
+        "verbalization": [
+          "fourteen"
+        ]
+      },
+      {
+        "probability": 2.8378455076905614e-05,
+        "verbalization": [
+          "one",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "63": {
+    "candidates": [
+      {
+        "probability": 0.9999102817154136,
+        "verbalization": [
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 8.971828458639871e-05,
+        "verbalization": [
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "64": {
+    "candidates": [
+      {
+        "probability": 0.9999102817154136,
+        "verbalization": [
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 8.971828458639871e-05,
+        "verbalization": [
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "65": {
+    "candidates": [
+      {
+        "probability": 0.9999716215449231,
+        "verbalization": [
+          "fourteen"
+        ]
+      },
+      {
+        "probability": 2.8378455076905614e-05,
+        "verbalization": [
+          "one",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "66": {
+    "candidates": [
+      {
+        "probability": 1.2835981824249736e-05,
+        "verbalization": [
+          "one",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.9999871640181758,
+        "verbalization": [
+          "twelve"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "67": {
+    "candidates": [
+      {
+        "probability": 0.9999920325073699,
+        "verbalization": [
+          "twenty"
+        ]
+      },
+      {
+        "probability": 3.983746315034659e-06,
+        "verbalization": [
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 3.983746315034659e-06,
+        "verbalization": [
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "70": {
+    "candidates": [
+      {
+        "probability": 0.9998129442573886,
+        "verbalization": [
+          "thirty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.00018705574261129816,
+        "verbalization": [
+          "three",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "74": {
+    "candidates": [
+      {
+        "probability": 0.9999383781119053,
+        "verbalization": [
+          "forty",
+          "five"
+        ]
+      },
+      {
+        "probability": 6.162188809465122e-05,
+        "verbalization": [
+          "four",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "75": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "76": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "77": {
+    "candidates": [
+      {
+        "probability": 2.6499894000423998e-05,
+        "verbalization": [
+          "nine",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.6499894000423998e-05,
+        "verbalization": [
+          "nine",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999470002119991,
+        "verbalization": [
+          "ninety"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "78": {
+    "candidates": [
+      {
+        "probability": 0.0003048780487804878,
+        "verbalization": [
+          "nine",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.9996951219512196,
+        "verbalization": [
+          "ninety",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "79": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "two"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "80": {
+    "candidates": [
+      {
+        "probability": 0.07407407407407407,
+        "verbalization": [
+          "seven",
+          "hundred",
+          "and",
+          "sixty",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.07407407407407407,
+        "verbalization": [
+          "seven",
+          "hundred",
+          "sixty",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.037037037037037035,
+        "verbalization": [
+          "seven",
+          "six",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.8148148148148148,
+        "verbalization": [
+          "seven",
+          "sixty",
+          "seven"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "84": {
+    "candidates": [
+      {
+        "probability": 0.9998863507216729,
+        "verbalization": [
+          "twenty",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.00011364927832708262,
+        "verbalization": [
+          "two",
+          "eight"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "85": {
+    "candidates": [
+      {
+        "probability": 0.9999334973731462,
+        "verbalization": [
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 6.650262685376072e-05,
+        "verbalization": [
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "87": {
+    "candidates": [
+      {
+        "probability": 0.6940298097170221,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.3059701902829779,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "88": {
+    "candidates": [
+      {
+        "probability": 0.0767914969478827,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9232085030521173,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "89": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "90": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "forty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "91": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "point",
+          "two",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "92": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "five",
+          "point",
+          "seven",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "93": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "nine",
+          "point",
+          "three",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "94": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fourteen",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "95": {
+    "candidates": [
+      {
+        "probability": 0.002421307506053269,
+        "verbalization": [
+          "oh",
+          "dot",
+          "nine",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.004842615012106538,
+        "verbalization": [
+          "oh",
+          "point",
+          "nine",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.09927360774818401,
+        "verbalization": [
+          "point",
+          "nine",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.002421307506053269,
+        "verbalization": [
+          "zero",
+          "dot",
+          "nine",
+          "percent"
+        ]
+      },
+      {
+        "probability": 0.8910411622276029,
+        "verbalization": [
+          "zero",
+          "point",
+          "nine",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "96": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "nine",
+          "point",
+          "two",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "97": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "one",
+          "point",
+          "seven",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "98": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "eight",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "99": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "twenty",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "100": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "nineteen",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "101": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "102": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "eight",
+          "point",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "103": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "nine",
+          "point",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "104": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "105": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "106": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "107": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "108": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "109": {
+    "candidates": [
+      {
+        "probability": 0.533312447786132,
+        "verbalization": [
+          "twenty",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.057383040935672515,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.40925229741019215,
+        "verbalization": [
+          "two",
+          "thousand",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "one",
+          "eight"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "110": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "111": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "112": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "113": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "114": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "115": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "116": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "117": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "118": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "119": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "120": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "121": {
+    "candidates": [
+      {
+        "probability": 0.0947119179163378,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T",
+          "D",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.9052880820836622,
+        "verbalization": [
+          "EBITDA"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "122": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "123": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "124": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "125": {
+    "candidates": [
+      {
+        "probability": 0.0947119179163378,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T",
+          "D",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.9052880820836622,
+        "verbalization": [
+          "EBITDA"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "126": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "127": {
+    "candidates": [
+      {
+        "probability": 0.18495861820798848,
+        "verbalization": [
+          "E",
+          "S",
+          "G"
+        ]
+      },
+      {
+        "probability": 0.8150413817920115,
+        "verbalization": [
+          "ESG"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "128": {
+    "candidates": [
+      {
+        "probability": 0.18495861820798848,
+        "verbalization": [
+          "E",
+          "S",
+          "G"
+        ]
+      },
+      {
+        "probability": 0.8150413817920115,
+        "verbalization": [
+          "ESG"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "129": {
+    "candidates": [
+      {
+        "probability": 0.18495861820798848,
+        "verbalization": [
+          "E",
+          "S",
+          "G"
+        ]
+      },
+      {
+        "probability": 0.8150413817920115,
+        "verbalization": [
+          "ESG"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "130": {
+    "candidates": [
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999950896868693,
+        "verbalization": [
+          "ten"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "138": {
+    "candidates": [
+      {
+        "probability": 0.9999780956344599,
+        "verbalization": [
+          "eleven"
+        ]
+      },
+      {
+        "probability": 2.190436554005213e-05,
+        "verbalization": [
+          "one",
+          "one"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "140": {
+    "candidates": [
+      {
+        "probability": 2.9057941535421632e-05,
+        "verbalization": [
+          "one",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.9999709420584646,
+        "verbalization": [
+          "thirteen"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "142": {
+    "candidates": [
+      {
+        "probability": 2.750880281690141e-05,
+        "verbalization": [
+          "one",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.9999724911971831,
+        "verbalization": [
+          "sixteen"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "147": {
+    "candidates": [
+      {
+        "probability": 0.9999672721322206,
+        "verbalization": [
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 3.272786777941417e-05,
+        "verbalization": [
+          "two",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "153": {
+    "candidates": [
+      {
+        "probability": 0.9999383781119053,
+        "verbalization": [
+          "forty",
+          "five"
+        ]
+      },
+      {
+        "probability": 6.162188809465122e-05,
+        "verbalization": [
+          "four",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "154": {
+    "candidates": [
+      {
+        "probability": 0.08,
+        "verbalization": [
+          "two",
+          "hundred",
+          "and",
+          "seventy",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.18666666666666668,
+        "verbalization": [
+          "two",
+          "hundred",
+          "seventy",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.013333333333333334,
+        "verbalization": [
+          "two",
+          "seven",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.72,
+        "verbalization": [
+          "two",
+          "seventy",
+          "two"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "155": {
+    "candidates": [
+      {
+        "probability": 0.19736842105263158,
+        "verbalization": [
+          "five",
+          "hundred",
+          "and",
+          "seventy"
+        ]
+      },
+      {
+        "probability": 0.2631578947368421,
+        "verbalization": [
+          "five",
+          "hundred",
+          "seventy"
+        ]
+      },
+      {
+        "probability": 0.006578947368421052,
+        "verbalization": [
+          "five",
+          "seven",
+          "oh"
+        ]
+      },
+      {
+        "probability": 0.006578947368421052,
+        "verbalization": [
+          "five",
+          "seven",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.5263157894736842,
+        "verbalization": [
+          "five",
+          "seventy"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "156": {
+    "candidates": [
+      {
+        "probability": 0.13333333333333333,
+        "verbalization": [
+          "a",
+          "hundred",
+          "and",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.14074074074074075,
+        "verbalization": [
+          "a",
+          "hundred",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.007407407407407408,
+        "verbalization": [
+          "one",
+          "eight",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.6222222222222222,
+        "verbalization": [
+          "one",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.022222222222222223,
+        "verbalization": [
+          "one",
+          "hundred",
+          "and",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.07407407407407407,
+        "verbalization": [
+          "one",
+          "hundred",
+          "eighty",
+          "one"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "159": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "160": {
+    "candidates": [
+      {
+        "probability": 0.0005425935973955507,
+        "verbalization": [
+          "eight",
+          "nine"
+        ]
+      },
+      {
+        "probability": 0.9994574064026045,
+        "verbalization": [
+          "eighty",
+          "nine"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "161": {
+    "candidates": [
+      {
+        "probability": 0.999628666914222,
+        "verbalization": [
+          "forty",
+          "nine"
+        ]
+      },
+      {
+        "probability": 0.0003713330857779428,
+        "verbalization": [
+          "four",
+          "nine"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "162": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "point",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "163": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "164": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "168": {
+    "candidates": [
+      {
+        "probability": 0.9996153846153846,
+        "verbalization": [
+          "fifty",
+          "four"
+        ]
+      },
+      {
+        "probability": 0.0003846153846153846,
+        "verbalization": [
+          "five",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "169": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "170": {
+    "candidates": [
+      {
+        "probability": 0.9999383781119053,
+        "verbalization": [
+          "forty",
+          "five"
+        ]
+      },
+      {
+        "probability": 6.162188809465122e-05,
+        "verbalization": [
+          "four",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "171": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "173": {
+    "candidates": [
+      {
+        "probability": 2.6499894000423998e-05,
+        "verbalization": [
+          "nine",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.6499894000423998e-05,
+        "verbalization": [
+          "nine",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999470002119991,
+        "verbalization": [
+          "ninety"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "174": {
+    "candidates": [
+      {
+        "probability": 0.0003048780487804878,
+        "verbalization": [
+          "nine",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.9996951219512196,
+        "verbalization": [
+          "ninety",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "175": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "176": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "point",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "177": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "183": {
+    "candidates": [
+      {
+        "probability": 0.2364949312595473,
+        "verbalization": [
+          "a",
+          "hundred",
+          "and",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.48521038744618805,
+        "verbalization": [
+          "a",
+          "hundred",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.19358422441327594,
+        "verbalization": [
+          "one",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 6.943480072212192e-05,
+        "verbalization": [
+          "one",
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 6.943480072212192e-05,
+        "verbalization": [
+          "one",
+          "five",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.03138452992639911,
+        "verbalization": [
+          "one",
+          "hundred",
+          "and",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.0531870573531454,
+        "verbalization": [
+          "one",
+          "hundred",
+          "fifty"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "185": {
+    "candidates": [
+      {
+        "probability": 0.13333333333333333,
+        "verbalization": [
+          "a",
+          "hundred",
+          "and",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.14074074074074075,
+        "verbalization": [
+          "a",
+          "hundred",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.007407407407407408,
+        "verbalization": [
+          "one",
+          "eight",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.6222222222222222,
+        "verbalization": [
+          "one",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.022222222222222223,
+        "verbalization": [
+          "one",
+          "hundred",
+          "and",
+          "eighty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.07407407407407407,
+        "verbalization": [
+          "one",
+          "hundred",
+          "eighty",
+          "one"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "186": {
+    "candidates": [
+      {
+        "probability": 0.1274386406544997,
+        "verbalization": [
+          "a",
+          "hundred",
+          "and",
+          "eighty"
+        ]
+      },
+      {
+        "probability": 0.34172435494021397,
+        "verbalization": [
+          "a",
+          "hundred",
+          "eighty"
+        ]
+      },
+      {
+        "probability": 0.00015733165512901197,
+        "verbalization": [
+          "one",
+          "eight",
+          "oh"
+        ]
+      },
+      {
+        "probability": 0.00015733165512901197,
+        "verbalization": [
+          "one",
+          "eight",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.43738200125865323,
+        "verbalization": [
+          "one",
+          "eighty"
+        ]
+      },
+      {
+        "probability": 0.03241032095657646,
+        "verbalization": [
+          "one",
+          "hundred",
+          "and",
+          "eighty"
+        ]
+      },
+      {
+        "probability": 0.06073001887979861,
+        "verbalization": [
+          "one",
+          "hundred",
+          "eighty"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "188": {
+    "candidates": [
+      {
+        "probability": 0.7059245279040098,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.2940754720959902,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "189": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "190": {
+    "candidates": [
+      {
+        "probability": 0.6467203682393556,
+        "verbalization": [
+          "They",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.3532796317606444,
+        "verbalization": [
+          "They're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "191": {
+    "candidates": [
+      {
+        "probability": 4.805825429352444e-06,
+        "verbalization": [
+          "'cause"
+        ]
+      },
+      {
+        "probability": 0.7678819958400775,
+        "verbalization": [
+          "because"
+        ]
+      },
+      {
+        "probability": 0.23211319833449315,
+        "verbalization": [
+          "cuz"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "192": {
+    "candidates": [
+      {
+        "probability": 0.7059245279040098,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.2940754720959902,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "193": {
+    "candidates": [
+      {
+        "probability": 0.7059245279040098,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.2940754720959902,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "194": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "195": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "196": {
+    "candidates": [
+      {
+        "probability": 0.42257807038307194,
+        "verbalization": [
+          "going",
+          "to"
+        ]
+      },
+      {
+        "probability": 0.5774219296169281,
+        "verbalization": [
+          "gonna"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "197": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "198": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "199": {
+    "candidates": [
+      {
+        "probability": 0.7711648036865212,
+        "verbalization": [
+          "we",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.22883519631347884,
+        "verbalization": [
+          "we'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "200": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "201": {
+    "candidates": [
+      {
+        "probability": 0.6940298097170221,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.3059701902829779,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "202": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "203": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "204": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "205": {
+    "candidates": [
+      {
+        "probability": 0.09524917762872238,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.9047508223712776,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "206": {
+    "candidates": [
+      {
+        "probability": 0.09524917762872238,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.9047508223712776,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "207": {
+    "candidates": [
+      {
+        "probability": 0.09524917762872238,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.9047508223712776,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "208": {
+    "candidates": [
+      {
+        "probability": 0.08201260012856662,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.9179873998714334,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "209": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "210": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "211": {
+    "candidates": [
+      {
+        "probability": 0.008883248730964468,
+        "verbalization": [
+          "S",
+          "P",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "probability": 0.9911167512690355,
+        "verbalization": [
+          "SPAC"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "212": {
+    "candidates": [
+      {
+        "probability": 0.3519552518078448,
+        "verbalization": [
+          "lemme"
+        ]
+      },
+      {
+        "probability": 0.6480447481921552,
+        "verbalization": [
+          "let",
+          "me"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "213": {
+    "candidates": [
+      {
+        "probability": 0.7567531397870287,
+        "verbalization": [
+          "don't",
+          "know"
+        ]
+      },
+      {
+        "probability": 0.2432468602129713,
+        "verbalization": [
+          "dunno"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "214": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "215": {
+    "candidates": [
+      {
+        "probability": 0.18495861820798848,
+        "verbalization": [
+          "E",
+          "S",
+          "G"
+        ]
+      },
+      {
+        "probability": 0.8150413817920115,
+        "verbalization": [
+          "ESG"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "216": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "217": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "twenty",
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "218": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "one"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "219": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "220": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "222": {
+    "candidates": [
+      {
+        "probability": 0.1038961038961039,
+        "verbalization": [
+          "U",
+          "B",
+          "S"
+        ]
+      },
+      {
+        "probability": 0.8961038961038961,
+        "verbalization": [
+          "UBS"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "223": {
+    "candidates": [
+      {
+        "probability": 0.9999672721322206,
+        "verbalization": [
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 3.272786777941417e-05,
+        "verbalization": [
+          "two",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "224": {
+    "candidates": [
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "ten",
+          "million"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "ten",
+          "million",
+          "bucks"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "ten",
+          "million",
+          "dollars"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "ten",
+          "million",
+          "pesos"
+        ]
+      }
+    ],
+    "class": "MONEY"
+  },
+  "225": {
+    "candidates": [
+      {
+        "probability": 0.533312447786132,
+        "verbalization": [
+          "twenty",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.057383040935672515,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.40925229741019215,
+        "verbalization": [
+          "two",
+          "thousand",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "one",
+          "eight"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "226": {
+    "candidates": [
+      {
+        "probability": 0.533312447786132,
+        "verbalization": [
+          "twenty",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.057383040935672515,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.40925229741019215,
+        "verbalization": [
+          "two",
+          "thousand",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "one",
+          "eight"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "227": {
+    "candidates": [
+      {
+        "probability": 0.533312447786132,
+        "verbalization": [
+          "twenty",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.057383040935672515,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.40925229741019215,
+        "verbalization": [
+          "two",
+          "thousand",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 2.6106934001670842e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "one",
+          "eight"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "228": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "one"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "229": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "234": {
+    "candidates": [
+      {
+        "probability": 0.9999672721322206,
+        "verbalization": [
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 3.272786777941417e-05,
+        "verbalization": [
+          "two",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "235": {
+    "candidates": [
+      {
+        "probability": 0.9999672721322206,
+        "verbalization": [
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 3.272786777941417e-05,
+        "verbalization": [
+          "two",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "236": {
+    "candidates": [
+      {
+        "probability": 0.0767914969478827,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9232085030521173,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "237": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "238": {
+    "candidates": [
+      {
+        "probability": 0.8136205481775549,
+        "verbalization": [
+          "you",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.1863794518224451,
+        "verbalization": [
+          "you're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "239": {
+    "candidates": [
+      {
+        "probability": 0.6940298097170221,
+        "verbalization": [
+          "I",
+          "will"
+        ]
+      },
+      {
+        "probability": 0.3059701902829779,
+        "verbalization": [
+          "I'll"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "240": {
+    "candidates": [
+      {
+        "probability": 0.15478240268017432,
+        "verbalization": [
+          "'em"
+        ]
+      },
+      {
+        "probability": 0.8452175973198257,
+        "verbalization": [
+          "them"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "241": {
+    "candidates": [
+      {
+        "probability": 0.9408117249154453,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.0002818489289740699,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.007328072153325817,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.05129650507328072,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.0002818489289740699,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "five"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "242": {
+    "candidates": [
+      {
+        "probability": 0.9192200557103064,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.001392757660167131,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.011142061281337047,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.06685236768802229,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.001392757660167131,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "six"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "245": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "246": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "247": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "248": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "249": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "250": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "thirty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "251": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "thirty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "254": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "255": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "256": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "257": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "258": {
+    "candidates": [
+      {
+        "probability": 0.8299220272904484,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.017909356725146198,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.15210769980506822,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "259": {
+    "candidates": [
+      {
+        "probability": 0.9999383781119053,
+        "verbalization": [
+          "forty",
+          "five"
+        ]
+      },
+      {
+        "probability": 6.162188809465122e-05,
+        "verbalization": [
+          "four",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "260": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "261": {
+    "candidates": [
+      {
+        "probability": 0.9999102817154136,
+        "verbalization": [
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 8.971828458639871e-05,
+        "verbalization": [
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "263": {
+    "candidates": [
+      {
+        "probability": 0.7475113010399427,
+        "verbalization": [
+          "they",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.2524886989600573,
+        "verbalization": [
+          "they're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "264": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "thirty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "265": {
+    "candidates": [
+      {
+        "probability": 0.8299220272904484,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.017909356725146198,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.15210769980506822,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "266": {
+    "candidates": [
+      {
+        "probability": 0.9070183281180152,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.00022351363433169424,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.008046490835940992,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.08448815377738042,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.00022351363433169424,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "267": {
+    "candidates": [
+      {
+        "probability": 0.8299220272904484,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.017909356725146198,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.15210769980506822,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "268": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "269": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "270": {
+    "candidates": [
+      {
+        "probability": 0.9996939087848179,
+        "verbalization": [
+          "forty",
+          "four"
+        ]
+      },
+      {
+        "probability": 0.00030609121518212427,
+        "verbalization": [
+          "four",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "272": {
+    "candidates": [
+      {
+        "probability": 0.9999102817154136,
+        "verbalization": [
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 8.971828458639871e-05,
+        "verbalization": [
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "273": {
+    "candidates": [
+      {
+        "probability": 0.9996794871794872,
+        "verbalization": [
+          "forty",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.0003205128205128205,
+        "verbalization": [
+          "four",
+          "seven"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "274": {
+    "candidates": [
+      {
+        "probability": 0.9999383781119053,
+        "verbalization": [
+          "forty",
+          "five"
+        ]
+      },
+      {
+        "probability": 6.162188809465122e-05,
+        "verbalization": [
+          "four",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "275": {
+    "candidates": [
+      {
+        "probability": 0.9999818666473245,
+        "verbalization": [
+          "fifty"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 9.066676337788093e-06,
+        "verbalization": [
+          "five",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "277": {
+    "candidates": [
+      {
+        "probability": 0.0001577287066246057,
+        "verbalization": [
+          "six",
+          "five"
+        ]
+      },
+      {
+        "probability": 0.9998422712933754,
+        "verbalization": [
+          "sixty",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "278": {
+    "candidates": [
+      {
+        "probability": 3.499685028347449e-05,
+        "verbalization": [
+          "seven",
+          "oh"
+        ]
+      },
+      {
+        "probability": 3.499685028347449e-05,
+        "verbalization": [
+          "seven",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999300062994331,
+        "verbalization": [
+          "seventy"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "283": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "284": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "285": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "286": {
+    "candidates": [
+      {
+        "probability": 0.42257807038307194,
+        "verbalization": [
+          "going",
+          "to"
+        ]
+      },
+      {
+        "probability": 0.5774219296169281,
+        "verbalization": [
+          "gonna"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "287": {
+    "candidates": [
+      {
+        "probability": 4.805825429352444e-06,
+        "verbalization": [
+          "'cause"
+        ]
+      },
+      {
+        "probability": 0.7678819958400775,
+        "verbalization": [
+          "because"
+        ]
+      },
+      {
+        "probability": 0.23211319833449315,
+        "verbalization": [
+          "cuz"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "288": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "289": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "290": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "291": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "292": {
+    "candidates": [
+      {
+        "probability": 0.0767914969478827,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9232085030521173,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "293": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "294": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "295": {
+    "candidates": [
+      {
+        "probability": 0.42257807038307194,
+        "verbalization": [
+          "going",
+          "to"
+        ]
+      },
+      {
+        "probability": 0.5774219296169281,
+        "verbalization": [
+          "gonna"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "296": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "297": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "298": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "300": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "302": {
+    "candidates": [
+      {
+        "probability": 0.999409681227863,
+        "verbalization": [
+          "nine",
+          "hundred"
+        ]
+      },
+      {
+        "probability": 0.00014757969303423848,
+        "verbalization": [
+          "nine",
+          "oh",
+          "oh"
+        ]
+      },
+      {
+        "probability": 0.00014757969303423848,
+        "verbalization": [
+          "nine",
+          "oh",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.00014757969303423848,
+        "verbalization": [
+          "nine",
+          "zero",
+          "oh"
+        ]
+      },
+      {
+        "probability": 0.00014757969303423848,
+        "verbalization": [
+          "nine",
+          "zero",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "303": {
+    "candidates": [
+      {
+        "probability": 0.2364949312595473,
+        "verbalization": [
+          "a",
+          "hundred",
+          "and",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.48521038744618805,
+        "verbalization": [
+          "a",
+          "hundred",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.19358422441327594,
+        "verbalization": [
+          "one",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 6.943480072212192e-05,
+        "verbalization": [
+          "one",
+          "five",
+          "oh"
+        ]
+      },
+      {
+        "probability": 6.943480072212192e-05,
+        "verbalization": [
+          "one",
+          "five",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.03138452992639911,
+        "verbalization": [
+          "one",
+          "hundred",
+          "and",
+          "fifty"
+        ]
+      },
+      {
+        "probability": 0.0531870573531454,
+        "verbalization": [
+          "one",
+          "hundred",
+          "fifty"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "304": {
+    "candidates": [
+      {
+        "probability": 0.040374138214932596,
+        "verbalization": [
+          "I",
+          "had"
+        ]
+      },
+      {
+        "probability": 0.04830649837844803,
+        "verbalization": [
+          "I",
+          "would"
+        ]
+      },
+      {
+        "probability": 0.9113193634066193,
+        "verbalization": [
+          "I'd"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "305": {
+    "candidates": [
+      {
+        "probability": 0.7059245279040098,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.2940754720959902,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "306": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "307": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "308": {
+    "candidates": [
+      {
+        "probability": 0.0947119179163378,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T",
+          "D",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.9052880820836622,
+        "verbalization": [
+          "EBITDA"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "309": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "five",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "310": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "311": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fifty",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "312": {
+    "candidates": [
+      {
+        "probability": 0.0947119179163378,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T",
+          "D",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.9052880820836622,
+        "verbalization": [
+          "EBITDA"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "313": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "314": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "315": {
+    "candidates": [
+      {
+        "probability": 0.3283582089552239,
+        "verbalization": [
+          "E",
+          "B",
+          "I",
+          "T"
+        ]
+      },
+      {
+        "probability": 0.6716417910447762,
+        "verbalization": [
+          "EBIT"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "316": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "320": {
+    "candidates": [
+      {
+        "probability": 0.8038200497685903,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.1961799502314096,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "321": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "322": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "323": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "324": {
+    "candidates": [
+      {
+        "probability": 2.750880281690141e-05,
+        "verbalization": [
+          "one",
+          "six"
+        ]
+      },
+      {
+        "probability": 0.9999724911971831,
+        "verbalization": [
+          "sixteen"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "325": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "326": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "two"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "327": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Q",
+          "three"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "328": {
+    "candidates": [
+      {
+        "probability": 3.348625389277701e-05,
+        "verbalization": [
+          "one",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.9999665137461072,
+        "verbalization": [
+          "seventeen"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "329": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "330": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "331": {
+    "candidates": [
+      {
+        "probability": 0.42257807038307194,
+        "verbalization": [
+          "going",
+          "to"
+        ]
+      },
+      {
+        "probability": 0.5774219296169281,
+        "verbalization": [
+          "gonna"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "332": {
+    "candidates": [
+      {
+        "probability": 3.348625389277701e-05,
+        "verbalization": [
+          "one",
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.9999665137461072,
+        "verbalization": [
+          "seventeen"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "333": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "three",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "334": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "two"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "336": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "337": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "338": {
+    "candidates": [
+      {
+        "probability": 0.42257807038307194,
+        "verbalization": [
+          "going",
+          "to"
+        ]
+      },
+      {
+        "probability": 0.5774219296169281,
+        "verbalization": [
+          "gonna"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "339": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "340": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "341": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "342": {
+    "candidates": [
+      {
+        "probability": 0.375,
+        "verbalization": [
+          "W",
+          "T",
+          "S"
+        ]
+      },
+      {
+        "probability": 0.625,
+        "verbalization": [
+          "WTS"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "343": {
+    "candidates": [
+      {
+        "probability": 0.0767914969478827,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9232085030521173,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "344": {
+    "candidates": [
+      {
+        "probability": 0.0767914969478827,
+        "verbalization": [
+          "It",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9232085030521173,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "345": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "346": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ninety",
+          "four",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "347": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ninety",
+          "seven",
+          "percent"
+        ]
+      }
+    ],
+    "class": "PERCENT"
+  },
+  "348": {
+    "candidates": [
+      {
+        "probability": 0.8571721617186334,
+        "verbalization": [
+          "twenty",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.02482097568253021,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 0.11798821423243323,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "oh"
+        ]
+      },
+      {
+        "probability": 4.662091600775772e-06,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "349": {
+    "candidates": [
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "oh",
+          "oh"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "oh",
+          "zero"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "zero",
+          "oh"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "zero",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999031664568606,
+        "verbalization": [
+          "two",
+          "thousand"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "oh",
+          "oh"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "oh",
+          "zero"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "zero",
+          "oh"
+        ]
+      },
+      {
+        "probability": 1.2104192892417933e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "zero",
+          "zero"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "350": {
+    "candidates": [
+      {
+        "probability": 0.8299220272904484,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.017909356725146198,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.15210769980506822,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "351": {
+    "candidates": [
+      {
+        "probability": 0.9070183281180152,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.00022351363433169424,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.008046490835940992,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.08448815377738042,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "three"
+        ]
+      },
+      {
+        "probability": 0.00022351363433169424,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "three"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "352": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "E",
+          "ones"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "353": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "E",
+          "twos"
+        ]
+      }
+    ],
+    "class": "ALPHANUMERIC"
+  },
+  "360": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "361": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "362": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "363": {
+    "candidates": [
+      {
+        "probability": 0.06718072610587006,
+        "verbalization": [
+          "it",
+          "is"
+        ]
+      },
+      {
+        "probability": 0.9328192738941299,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "364": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "365": {
+    "candidates": [
+      {
+        "probability": 0.8523177053471517,
+        "verbalization": [
+          "we",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.14768229465284835,
+        "verbalization": [
+          "we're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "366": {
+    "candidates": [
+      {
+        "probability": 0.7508819518667306,
+        "verbalization": [
+          "wanna"
+        ]
+      },
+      {
+        "probability": 0.24911804813326946,
+        "verbalization": [
+          "want",
+          "to"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "367": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "368": {
+    "candidates": [
+      {
+        "probability": 0.8299220272904484,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.017909356725146198,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.15210769980506822,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "two"
+        ]
+      },
+      {
+        "probability": 3.0458089668615983e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "two"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "371": {
+    "candidates": [
+      {
+        "probability": 0.8005750130684788,
+        "verbalization": [
+          "We",
+          "are"
+        ]
+      },
+      {
+        "probability": 0.19942498693152116,
+        "verbalization": [
+          "We're"
+        ]
+      }
+    ],
+    "class": "CONTRACTION"
+  },
+  "372": {
+    "candidates": [
+      {
+        "probability": 0.8405317560247137,
+        "verbalization": [
+          "twenty",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "oh",
+          "two",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.019765160610231033,
+        "verbalization": [
+          "two",
+          "thousand",
+          "and",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 0.13967380164563264,
+        "verbalization": [
+          "two",
+          "thousand",
+          "twenty",
+          "one"
+        ]
+      },
+      {
+        "probability": 1.4640859711282247e-05,
+        "verbalization": [
+          "two",
+          "zero",
+          "two",
+          "one"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "373": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "l"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "374": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "b"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "375": {
+    "candidates": [
+      {
+        "probability": 0.3617021276595745,
+        "verbalization": [
+          "SG",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.6382978723404256,
+        "verbalization": [
+          "SG",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "376": {
+    "candidates": [
+      {
+        "probability": 0.3617021276595745,
+        "verbalization": [
+          "SG",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.6382978723404256,
+        "verbalization": [
+          "SG",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "377": {
+    "candidates": [
+      {
+        "probability": 0.3617021276595745,
+        "verbalization": [
+          "SG",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.6382978723404256,
+        "verbalization": [
+          "SG",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "378": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "our"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "379": {
+    "candidates": [
+      {
+        "probability": 0.17793728749527768,
+        "verbalization": [
+          "Q",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.8220627125047223,
+        "verbalization": [
+          "Q",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "380": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "or"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "381": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "382": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fif"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "383": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ha"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "384": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "i"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "385": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "gui"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "386": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "387": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "w"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "388": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "d"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "389": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "tha"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "390": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "a"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "391": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "It"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "392": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "393": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "camp"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "394": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "s"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "395": {
+    "candidates": [
+      {
+        "probability": 0.17793728749527768,
+        "verbalization": [
+          "Q",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.8220627125047223,
+        "verbalization": [
+          "Q",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "396": {
+    "candidates": [
+      {
+        "probability": 0.17793728749527768,
+        "verbalization": [
+          "Q",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.8220627125047223,
+        "verbalization": [
+          "Q",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "397": {
+    "candidates": [
+      {
+        "probability": 0.17793728749527768,
+        "verbalization": [
+          "Q",
+          "A"
+        ]
+      },
+      {
+        "probability": 0.8220627125047223,
+        "verbalization": [
+          "Q",
+          "and",
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}
