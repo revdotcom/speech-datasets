@@ -1,0 +1,302 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.9997690531177829,
+        "verbalization": [
+          "thirty",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.00023094688221709007,
+        "verbalization": [
+          "three",
+          "eight"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "twenty",
+          "four",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "twenty",
+          "four",
+          "hundred",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "twenty",
+          "four",
+          "hundred",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "four",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "thousand",
+          "four",
+          "hundred",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "thousand",
+          "four",
+          "hundred",
+          "eighteen"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 0.9999716215449231,
+        "verbalization": [
+          "fourteen"
+        ]
+      },
+      {
+        "probability": 2.8378455076905614e-05,
+        "verbalization": [
+          "one",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 0.9999883360160496,
+        "verbalization": [
+          "fifteen"
+        ]
+      },
+      {
+        "probability": 1.1663983950358084e-05,
+        "verbalization": [
+          "one",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "5": {
+    "candidates": [
+      {
+        "probability": 0.9999883360160496,
+        "verbalization": [
+          "fifteen"
+        ]
+      },
+      {
+        "probability": 1.1663983950358084e-05,
+        "verbalization": [
+          "one",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "6": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "The"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "7": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fam"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "8": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "m"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "9": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "that"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "10": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "in"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "11": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "A"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "12": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "any"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "13": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Well"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "14": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "recent"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "15": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "when"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "16": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "fa"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "17": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ma"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "18": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "19": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "wh"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "20": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "r"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}

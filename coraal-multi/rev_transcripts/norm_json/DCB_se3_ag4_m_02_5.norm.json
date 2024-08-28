@@ -1,0 +1,66 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.9833333333333333,
+        "verbalization": [
+          "R",
+          "O",
+          "T",
+          "C"
+        ]
+      },
+      {
+        "probability": 0.016666666666666666,
+        "verbalization": [
+          "ROTC"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "other"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "play"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "them"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "with"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}

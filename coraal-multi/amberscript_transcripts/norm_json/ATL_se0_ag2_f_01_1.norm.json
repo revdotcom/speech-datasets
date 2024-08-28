@@ -1,0 +1,1235 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "O",
+          "W",
+          "N"
+        ]
+      },
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "OWN"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "O",
+          "W",
+          "N"
+        ]
+      },
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "OWN"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999950896868693,
+        "verbalization": [
+          "ten"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 1.2835981824249736e-05,
+        "verbalization": [
+          "one",
+          "two"
+        ]
+      },
+      {
+        "probability": 0.9999871640181758,
+        "verbalization": [
+          "twelve"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999950896868693,
+        "verbalization": [
+          "ten"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "5": {
+    "candidates": [
+      {
+        "probability": 0.9666666666666667,
+        "verbalization": [
+          "N",
+          "Y",
+          "C"
+        ]
+      },
+      {
+        "probability": 0.03333333333333333,
+        "verbalization": [
+          "NYC"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "6": {
+    "candidates": [
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "oh"
+        ]
+      },
+      {
+        "probability": 2.4551565653341715e-06,
+        "verbalization": [
+          "one",
+          "zero"
+        ]
+      },
+      {
+        "probability": 0.9999950896868693,
+        "verbalization": [
+          "ten"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "7": {
+    "candidates": [
+      {
+        "probability": 0.8571428571428571,
+        "verbalization": [
+          "A",
+          "T",
+          "L"
+        ]
+      },
+      {
+        "probability": 0.14285714285714285,
+        "verbalization": [
+          "ATL"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "8": {
+    "candidates": [
+      {
+        "probability": 0.9998863507216729,
+        "verbalization": [
+          "twenty",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.00011364927832708262,
+        "verbalization": [
+          "two",
+          "eight"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "9": {
+    "candidates": [
+      {
+        "probability": 0.8571428571428571,
+        "verbalization": [
+          "A",
+          "T",
+          "L"
+        ]
+      },
+      {
+        "probability": 0.14285714285714285,
+        "verbalization": [
+          "ATL"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "10": {
+    "candidates": [
+      {
+        "probability": 0.03225806451612903,
+        "verbalization": [
+          "H",
+          "E",
+          "R"
+        ]
+      },
+      {
+        "probability": 0.967741935483871,
+        "verbalization": [
+          "HER"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "11": {
+    "candidates": [
+      {
+        "probability": 0.9999895171604084,
+        "verbalization": [
+          "thirty"
+        ]
+      },
+      {
+        "probability": 5.241419795794285e-06,
+        "verbalization": [
+          "three",
+          "oh"
+        ]
+      },
+      {
+        "probability": 5.241419795794285e-06,
+        "verbalization": [
+          "three",
+          "zero"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "12": {
+    "candidates": [
+      {
+        "probability": 0.9997831743278404,
+        "verbalization": [
+          "thirty",
+          "four"
+        ]
+      },
+      {
+        "probability": 0.0002168256721595837,
+        "verbalization": [
+          "three",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "13": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "14": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "talk"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "15": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "be"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "16": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "stop"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "17": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "go"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "18": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "artistic"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "19": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "couple"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "20": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "she"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "21": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "some"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "22": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "me"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "23": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ties"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "24": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "what"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "25": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "know"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "26": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "27": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I'm"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "28": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "of"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "29": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "It's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "30": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it's-it's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "31": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "feels"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "32": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "just"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "33": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "really"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "34": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "watch"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "35": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "what's-what's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "36": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "37": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "they"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "38": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "39": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "but"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "40": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "a"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "41": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "to"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "42": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "43": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "biggest"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "44": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "45": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "46": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "husband",
+          "So"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "47": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "a"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "48": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "put"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "49": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "up"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "50": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "make"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "51": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "remember",
+          "But"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "52": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "that"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "53": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "with"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "54": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "not"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "55": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "doesn't"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "56": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "wave"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "57": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "don't"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "58": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "at"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "59": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ac"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "60": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "literally"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "61": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "62": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "school"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "63": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "wasn't"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "64": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "kindergarten"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "65": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "my"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "66": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Like"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "67": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "glasses"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "68": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "momma"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "69": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "ra"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "70": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "race"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "71": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "72": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "some"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "73": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "just"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "74": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "considered"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "75": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I'm"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "76": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "77": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "and"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "78": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "have"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "79": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Not"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "80": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "just"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "81": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "my"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "82": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you-you're"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "83": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "That's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "84": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "go"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "85": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "86": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "compare"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "87": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "just"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "88": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "he"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "89": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "different"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "90": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "91": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "you"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "92": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "L",
+          "A",
+          "C",
+          "K"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "93": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "can't"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "94": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "have"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "95": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "don't"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "96": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "listen"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "97": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Latifah"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "98": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "Z"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "99": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "junkie",
+          "Yeah"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.8204607046070461,
+        "verbalization": [
+          "seven"
+        ]
+      },
+      {
+        "probability": 0.17953929539295393,
+        "verbalization": [
+          "seven",
+          "o'clock"
+        ]
+      }
+    ],
+    "class": "TIME"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "the"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "are"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "5": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "it's"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "6": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "n"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}
