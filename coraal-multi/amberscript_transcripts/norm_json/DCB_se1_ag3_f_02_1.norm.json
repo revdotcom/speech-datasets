@@ -1,0 +1,123 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.5,
+        "verbalization": [
+          "twenty",
+          "four",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "twenty",
+          "four",
+          "hundred",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "twenty",
+          "four",
+          "hundred",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "four",
+          "one",
+          "eight"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "thousand",
+          "four",
+          "hundred",
+          "and",
+          "eighteen"
+        ]
+      },
+      {
+        "probability": 0.1,
+        "verbalization": [
+          "two",
+          "thousand",
+          "four",
+          "hundred",
+          "eighteen"
+        ]
+      }
+    ],
+    "class": "YEAR"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 0.9999716215449231,
+        "verbalization": [
+          "fourteen"
+        ]
+      },
+      {
+        "probability": 2.8378455076905614e-05,
+        "verbalization": [
+          "one",
+          "four"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 0.9999883360160496,
+        "verbalization": [
+          "fifteen"
+        ]
+      },
+      {
+        "probability": 1.1663983950358084e-05,
+        "verbalization": [
+          "one",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "but"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "5": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "I",
+          "I"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}

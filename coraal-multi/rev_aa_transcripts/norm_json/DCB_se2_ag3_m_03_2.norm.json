@@ -1,0 +1,73 @@
+{
+  "0": {
+    "candidates": [
+      {
+        "probability": 0.9984984984984985,
+        "verbalization": [
+          "H",
+          "V",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "probability": 0.0015015015015015015,
+        "verbalization": [
+          "HVAC"
+        ]
+      }
+    ],
+    "class": "ABBREVIATION"
+  },
+  "1": {
+    "candidates": [
+      {
+        "probability": 0.9999883360160496,
+        "verbalization": [
+          "fifteen"
+        ]
+      },
+      {
+        "probability": 1.1663983950358084e-05,
+        "verbalization": [
+          "one",
+          "five"
+        ]
+      }
+    ],
+    "class": "CARDINAL"
+  },
+  "2": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "a"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "3": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "he"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  },
+  "4": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "s"
+        ]
+      }
+    ],
+    "class": "FALLBACK"
+  }
+}
