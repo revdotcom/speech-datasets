@@ -6,22 +6,21 @@ The Earnings-22 Subset 10 dataset is an 11-hour corpus of ten, English-language 
 
 The transcripts were created by Rev transcriptionists in two different styles, and are separated by subdirectory. The `verbatim` transcripts are created by the transcriptionists writing exactly what they hear, including filler words, stutters, interjections (active listening) and repetitions. The `nonverbatim` transcripts are created by lightly editting for readability. Without changing the structure or meaning of the speech.
 
-For more information, see Rev's [Transcription Style Guide](https://cf-public.rev.com/styleguide/transcription/Rev+Transcription+Style+Guide+v4.0.1.pdf) on page 12-14.
+For more information, see Rev's [Transcription Style Guide](https://cf-public.rev.com/styleguide/transcription/Transcription+Style+Guide+v5.pdf) on page 6-8.
 
 # Cite this Dataset
-The paper describing the original Earnings-22 data can be found on arXiv at https://arxiv.org/abs/2203.15591.
+The paper describing the original Earnings-22 data can be found at https://czasopisma.uni.lodz.pl/research/article/view/21579. An earlier version of that work can be found at https://arxiv.org/abs/2203.15591.
+The paper describing the subset's creation can be found on arXiv (to be published soon).
 
-If you'd like to use this subset please cite both of the following:
+If you'd like to use this subset please cite the following:
 ```
-@misc{https://doi.org/10.48550/arxiv.2203.15591,
-  doi = {10.48550/ARXIV.2203.15591},
-  url = {https://arxiv.org/abs/2203.15591},
-  author = {Del Rio, Miguel and Ha, Peter and McNamara, Quinten and Miller, Corey and Chandra, Shipra},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Earnings-22: A Practical Benchmark for Accents in the Wild},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+@article{earnings22,
+  title={Accents in Speech Recognition through the Lens of a {W}orld {E}nglishes Evaluation Set},
+  author={Del Rio, Miguel and Miller, Corey and Profant, Jan and Drexler-Fox, Jennifer and McNamara, Quinn and Bhandari, Nishchal and Delworth, Natalie and Pirkin, Ilya and Jett\'e, Mig\"uel and Chandra, Shipra and Ha, Peter and Westerman, Ryan},
+  journal={Research in Language},
+  volume={21},
+  number={3},
+  pages={225--244},
+  year={2023}
 }
-//Arxive
 ```
