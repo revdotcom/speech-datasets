@@ -59,16 +59,14 @@ Tables found in the paper along with all entity class WER can be found within th
 All of our analysis on this dataset is done through the use of our newly released [fstalign](https://github.com/revdotcom/fstalign/tree/master) tool. We strongly recommend the use of this tool to quickly get started using the *Earnings-22* dataset.
 
 # Cite this Dataset
-This dataset has been submitted to Interspeech 2022.
-The paper describing our methods and results can be found on arXiv at https://arxiv.org/abs/2203.15591.
+The paper describing our methods and results can be found at https://czasopisma.uni.lodz.pl/research/article/view/21579. An earlier version of our work can be found at https://arxiv.org/abs/2203.15591.
 ```
-@misc{https://doi.org/10.48550/arxiv.2203.15591,
-  doi = {10.48550/ARXIV.2203.15591},
-  url = {https://arxiv.org/abs/2203.15591},
-  author = {Del Rio, Miguel and Ha, Peter and McNamara, Quinten and Miller, Corey and Chandra, Shipra},
-  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Earnings-22: A Practical Benchmark for Accents in the Wild},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+@article{earnings22,
+  title={Accents in Speech Recognition through the Lens of a {W}orld {E}nglishes Evaluation Set},
+  author={Del Rio, Miguel and Miller, Corey and Profant, Jan and Drexler-Fox, Jennifer and McNamara, Quinn and Bhandari, Nishchal and Delworth, Natalie and Pirkin, Ilya and Jett\'e, Mig\"uel and Chandra, Shipra and Ha, Peter and Westerman, Ryan},
+  journal={Research in Language},
+  volume={21},
+  number={3},
+  pages={225--244},
+  year={2023}
 }
