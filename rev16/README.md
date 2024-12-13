@@ -12,7 +12,7 @@ For more information, see Rev's [Transcription Style Guide](https://cf-public.re
 We do not claim ownership over the recordings. We have provided direct links to the podcasts used in this dataset in the `podcasts.csv` file under the `iTunes ID` column. These media files have also been uploaded to Huggingface [here](https://huggingface.co/datasets/sanchit-gandhi/rev16_csv) if you'd like to download them. The `podcasts.csv` file also has direct paths to the media files on Huggingface under the `MP3 file` column.
 
 # Cite this Dataset
-The paper that originally described this dataset can be found at https://proceedings.mlr.press/v202/radford23a.html. Radford et al., 2023 covers the verbatim transcripts and the media files that are used to produce them. The nonverbatim transcrpts were created as part of https://arxiv.org/abs/2412.07937.
+The paper that originally described this dataset can be found at https://proceedings.mlr.press/v202/radford23a.html. Radford et al., 2023 covers the verbatim transcripts and the media files that are used to produce them. The nonverbatim transcripts and both sets of normalization files were created as part of https://arxiv.org/abs/2412.07937.
 
 If you'd only like to use the verbatim transcripts please only cite:
 ```
