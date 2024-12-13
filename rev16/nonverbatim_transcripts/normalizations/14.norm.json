@@ -1,0 +1,82 @@
+{
+  "60": {
+    "candidates": [
+      {
+        "probability": 0.24534360950545922,
+        "verbalization": [
+          "five",
+          "hundred"
+        ]
+      },
+      {
+        "probability": 0.03767929779490473,
+        "verbalization": [
+          "five",
+          "hundred",
+          "bucks"
+        ]
+      },
+      {
+        "probability": 0.716977092699636,
+        "verbalization": [
+          "five",
+          "hundred",
+          "dollars"
+        ]
+      }
+    ],
+    "class": "MONEY"
+  },
+  "128": {
+    "candidates": [
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "spotify",
+          "com",
+          "Crimetown"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "spotify",
+          "com",
+          "slash",
+          "Crimetown"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "spotify",
+          "dot",
+          "com",
+          "Crimetown"
+        ]
+      },
+      {
+        "probability": 0.25,
+        "verbalization": [
+          "spotify",
+          "dot",
+          "com",
+          "slash",
+          "Crimetown"
+        ]
+      }
+    ],
+    "class": "WEBSITE"
+  },
+  "129": {
+    "candidates": [
+      {
+        "probability": 1.0,
+        "verbalization": [
+          "first"
+        ]
+      }
+    ],
+    "class": "ORDINAL"
+  }
+}
