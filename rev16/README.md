@@ -6,6 +6,8 @@ The Rev-16 dataset ( also referred to as rev16 ) is a 16-hour corpus of English-
 
 The transcripts were created by Rev transcriptionists in two different styles, and are separated by subdirectory. The verbatim transcripts are created by the transcriptionists writing exactly what they hear, including filler words, stutters, interjections (active listening) and repetitions. The nonverbatim transcripts are created by lightly editing for readability without changing the structure or meaning of the speech.
 
+Along with the transcripts, each has a matching `.norm.json` file which provides verbalization options that can be used by our opensource alignment and scoring tool, [fstalign](https://github.com/revdotcom/fstalign/tree/develop).
+
 For more information, see Rev's [Transcription Style Guide](https://cf-public.rev.com/styleguide/transcription/Transcription+Style+Guide+v5.pdf) on page 6-8.
 
 # Media
